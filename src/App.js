@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 
-import { Introduction, Conclusion, Home, } from 'components/pages';
+import { Introduction, Conclusion, Home, Parcours, } from 'components/pages';
 
 import logo from './logo.svg';
 import './App.css';
@@ -11,9 +11,10 @@ class App extends Component {
     return (
       <Router>
         <div className="App">
-          <Route path="/" exact><Home/></Route>
-          <Route path="/introduction" exact><Introduction/></Route>
-          <Route path="/conclusion" exact><Introduction/></Route>
+          <Route path="/" exact component={Home}/>
+          <Route path="/introduction" exact component={Introduction}/>
+          <Route path="/parcours" component={Parcours}/>
+          <Route path="/conclusion" exact component={Conclusion}/>
         </div>
       </Router>
     );
