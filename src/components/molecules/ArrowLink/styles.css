@@ -1,4 +1,5 @@
 .arrow-link {
+  cursor: pointer;
   width: 40px;
   height: 40px;
   border-radius: 20px;
@@ -9,7 +10,7 @@
 }
 
 .arrow-link:hover {
-  background-color: #aaa;
+  background-color: #D0D0D0;
 }
 
 .arrow-link svg {
