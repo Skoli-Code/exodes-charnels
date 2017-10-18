@@ -1,13 +1,14 @@
 import React from 'react';
 import { resolveParcour } from 'utils/parcours';
 import StoryMap from 'components/molecules/StoryMap';
+import ParcoursNav from 'components/organisms/ParcoursNav';
 
 const SingleParcour = ({ match }) => {
-  const parcour = resolveParcour(match.params.slug);
-  console.log('SingleParcour', match, parcour);
+  const { slug } = match.params;
+  const parcour = resolveParcour(slug);
   return (
     <div>
-      <h1>{ parcour.title }</h1>
+      <ParcoursNav/>
       <StoryMap url={ parcour.storymap_url }/>
     </div>
   );
