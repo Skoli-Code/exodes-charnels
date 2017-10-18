@@ -14,7 +14,7 @@ const ParcoursGallery = () => (
           <div className='parcours-gallery__pane__inner'>
             <h2>{ parcour.title }</h2>
             <Markdown source={parcour.description}/>
-            <ArrowLink to={`${parcour.slug}`}/>
+            <ArrowLink to={`/parcours/${parcour.slug}`}/>
           </div>
         </div>
       ))}
