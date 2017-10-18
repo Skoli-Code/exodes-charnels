@@ -1,0 +1,11 @@
+.navbar {
+  display: flex;
+  background-color: #BBB;
+  height: 100px;
+}
+
+.navbar-tab {
+  min-width: 100px;
+}
+
+

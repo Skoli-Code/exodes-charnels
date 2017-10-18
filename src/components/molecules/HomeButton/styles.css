@@ -1,0 +1,12 @@
+.home-button {
+  width: 70px;
+  display: flex;
+  align-items: center;
+  background-color: #555;
+}
+.home-button svg {
+  margin: auto;
+}
+.home-button svg * {
+  fill: white;
+}

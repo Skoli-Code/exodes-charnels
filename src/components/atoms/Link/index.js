@@ -3,7 +3,7 @@ import { Link as RouterLink } from 'react-router-dom';
 import './styles.css';
 
 const Anchor = ({ to, ...otherProps }) => (
-  <a target='_blank' rel='nofollow' {...otherProps}/>
+  <a href={to} target='_blank' rel='nofollow' {...otherProps}/>
 );
 
 const Link = ({ to, ...otherProps}) => {

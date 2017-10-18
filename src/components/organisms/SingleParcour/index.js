@@ -8,7 +8,6 @@ const SingleParcour = ({ match }) => {
   const parcour = resolveParcour(slug);
   return (
     <div>
-      <ParcoursNav/>
       <StoryMap url={ parcour.storymap_url }/>
     </div>
   );

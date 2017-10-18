@@ -1,0 +1,17 @@
+.navigation-tab {
+  min-width: 200px;
+  text-align: center;
+  line-height: 100px;
+  text-decoration: none;
+  color: white;
+  transition: background-color .3s ease;
+  background-color: #BBB;
+}
+
+.navigation-tab:not(.navigation-tab--active):hover {
+  background-color: #B3B3B3;
+}
+
+.navigation-tab--active {
+  background-color: #AAA;
+}

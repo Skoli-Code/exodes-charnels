@@ -1,7 +1,11 @@
 import React from 'react';
 
+import PageTemplate from 'components/templates/PageTemplate'; 
+
 const Conclusion = () => (
-  <h1>Conclusion</h1>
+  <PageTemplate>
+    <h1>Conclusion</h1>
+  </PageTemplate>
 );
 
 export default Conclusion;

@@ -8,17 +8,3 @@
   display: flex;
 }
 
-.link {
-  line-height: 50px;
-  display: block;
-  text-align: center;
-  flex-grow: 1;
-  flex-basis: 1;
-  background-color: #D3D3D3;
-  color: #bbb;
-}
-
-.link--active {
-  color: #FAFAFA;
-  background-color: #AAA;
-}

@@ -3,14 +3,13 @@ import PropTypes from 'prop-types';
 import { Route } from 'react-router-dom';
 import ParcoursGallery from 'components/organisms/ParcoursGallery';
 import SingleParcour from 'components/organisms/SingleParcour';
+import PageTemplate from 'components/templates/PageTemplate'; 
 
-const Parcours = ({ match }) => {
-console.log('match');
-return (
-  <div>
+const Parcours = ({ match }) => ( 
+  <PageTemplate>
     <Route path={match.url} exact component={ParcoursGallery}/>
     <Route path={`${match.url}/:slug`} component={SingleParcour}/>
-  </div>
+  </PageTemplate>
 );
-}
+
 export default Parcours;
