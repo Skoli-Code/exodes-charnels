@@ -25,7 +25,12 @@ class StoryMap extends Component {
     const klass = `storymap ${loading ? 'storymap--loading':''}`;
     return (
       <div className={klass}>
-        <iframe ref={(ref)=>this.bindIframe(ref)} src={url}/>
+        <iframe
+          width="100%"
+          height="100%"
+          frameborder="0"
+          ref={(ref)=>this.bindIframe(ref)} src={url}
+        />
       </div>
     );
   } 

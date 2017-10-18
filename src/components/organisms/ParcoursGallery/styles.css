@@ -1,6 +1,13 @@
-.parcours-gallery {
+.parcours-gallery__panes {
   display: flex;
-  &__pane {
-    
-  }
+}
+
+.parcours-gallery__pane {
+  flex-grow: 1;
+  flex-basis: 1;
+}
+
+.parcours-gallery__pane__inner {
+  text-align: left;
+  padding: 0 10em;
 }
