@@ -1,10 +1,13 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Markdown from 'react-markdown';
+// custom markdown renderer
 import BlockQuote from 'components/atoms/BlockQuote';
+import Image from 'components/atoms/Image';
 
 const renderers = {
   BlockQuote,
+  Image
 };
 
 class Content extends Component {
@@ -29,8 +32,9 @@ class Content extends Component {
   render(){
     const { content }  = this.state;
     if(!content){ return null; }
-
-    return (<Markdown source={content} renderers={renderers} />);
+    return (
+      <Markdown source={content} renderers={renderers} />
+    );
   }
 }
 

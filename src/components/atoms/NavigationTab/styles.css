@@ -1,17 +1,14 @@
 .navigation-tab {
   padding: 0 15px;
   text-align: center;
-  line-height: 100px;
   text-decoration: none;
   color: white;
   transition: background-color .3s ease;
-  background-color: #BBB;
+  background-color: rgb(152, 143, 134);/* PANTONE WARM GREY 7 C */
 }
 
-.navigation-tab:not(.navigation-tab--active):hover {
-  background-color: #B3B3B3;
+.navigation-tab:hover, .navigation-tab--active {
+  /* Small variation of PANTONE WARM GREY 7 C */
+  background-color: rgb(110, 103, 97);
 }
 
-.navigation-tab--active {
-  background-color: #AAA;
-}

@@ -17,7 +17,7 @@
   display: flex;
 }
 
-.parcours-gallery__pane:before {
+.parcours-gallery__pane-background {
   content: ' ';
   z-index: 5;
   position: absolute;
@@ -47,20 +47,29 @@
   position: relative;
 }
 
+@media screen and (min-width: 720px) and (max-width: 1024px){
+  .parcours-gallery__pane__inner {
+    padding: 0 50px;
+  }
+}
+
 @media screen and (max-width: 720px){
   .parcours-gallery__panes {
     flex-direction: column;
   }
-  .parcours-gallery__pane {
+
+  .parcours-gallery__pane-background {
     background-size: cover;
     background-position: 0;
     background-repeat: no-repeat;
   }
+
   .parcours-gallery__pane .arrow-link {
     transform: rotate(-90deg);
     flex-grow: 0;
     flex-shrink: 0;
   }
+
   .parcours-gallery__pane__inner {
     display: flex;
   }

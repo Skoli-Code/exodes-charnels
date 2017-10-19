@@ -5,7 +5,7 @@ import Markdown from 'react-markdown';
 
 import './styles.css';
 
-const paneStyle = ({pane_image}) => ({
+const paneStyle = ({ pane_image }) => ({
   backgroundImage: `url(${pane_image})`
 });
 
@@ -16,8 +16,11 @@ const ParcoursGallery = () => (
       { list().map(parcour => (
         <div
           className='parcours-gallery__pane'
-          style={paneStyle(parcour)}
         >
+          <div
+            className='parcours-gallery__pane-background'
+            style={paneStyle(parcour)}
+          />
           <div className='parcours-gallery__pane__inner'>
             <div>
               <h2>{ parcour.title }</h2>
