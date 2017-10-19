@@ -1,6 +1,11 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Markdown from 'react-markdown';
+import BlockQuote from 'components/atoms/BlockQuote';
+
+const renderers = {
+  BlockQuote,
+};
 
 class Content extends Component {
   static propTypes = {
@@ -25,7 +30,7 @@ class Content extends Component {
     const { content }  = this.state;
     if(!content){ return null; }
 
-    return (<Markdown source={content}/>);
+    return (<Markdown source={content} renderers={renderers} />);
   }
 }
 

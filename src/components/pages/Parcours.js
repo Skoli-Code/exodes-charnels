@@ -12,4 +12,10 @@ const Parcours = ({ match }) => (
   </PageTemplate>
 );
 
+Parcours.propTypes = {
+  match: PropTypes.shape({
+    url: PropTypes.string,
+  })
+};
+
 export default Parcours;

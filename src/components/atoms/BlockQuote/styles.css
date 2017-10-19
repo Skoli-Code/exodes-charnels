@@ -1,0 +1,23 @@
+.blockquote {
+  color: #555;
+  width: 80%;
+  margin: auto;
+  font-size: 1.2em;
+}
+
+.blockquote svg path {
+  fill: #555;
+}
+
+.open-quote, .close-quote, .quote, .quote p {
+  display: inline;
+}
+
+.open-quote {
+  margin-right: 0.5em;
+}
+
+.close-quote {
+  margin-left: 0.5em;
+  vertical-align: text-top;
+}

@@ -13,17 +13,11 @@ class ParcoursDropdown extends Component {
     router: PropTypes.object,
   }
 
-  constructor(props){
-    super(props);
-    this.state = {
-      selected: null
-    };
-  }
   onSelect({ value }){
     const { router } = this.context;
-    console.log('onSelect', value);
     router.history.push(`/parcours/${value}`);
   }
+
   render(){
     const { match } = this.props;
     const slug = match.params.slug;

@@ -26,7 +26,6 @@
   left: 0;
   right: 0;
   filter: brightness(0.8);
-  background-image: url(/images/keletso-rabalao-384640.jpg);
   background-size: cover;
   background-position: 50% 100%;
   background-repeat: no-repeat;
@@ -35,11 +34,9 @@
 .parcours-gallery__pane:first-of-type:before {
   bottom: 0;
   left: -100px;
-  background-image: url(https://picsum.photos/500/800?image=1014);
 }
 
 .parcours-gallery__pane:last-of-type:before {
-  background-image: url(https://picsum.photos/500/800?image=1027);
 }
 
 .parcours-gallery__pane__inner {
@@ -48,4 +45,23 @@
   padding: 0 110px;
   z-index: 10;
   position: relative;
+}
+
+@media screen and (max-width: 720px){
+  .parcours-gallery__panes {
+    flex-direction: column;
+  }
+  .parcours-gallery__pane {
+    background-size: cover;
+    background-position: 0;
+    background-repeat: no-repeat;
+  }
+  .parcours-gallery__pane .arrow-link {
+    transform: rotate(-90deg);
+    flex-grow: 0;
+    flex-shrink: 0;
+  }
+  .parcours-gallery__pane__inner {
+    display: flex;
+  }
 }
