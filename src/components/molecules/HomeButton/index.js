@@ -6,7 +6,8 @@ import './styles.css';
 
 const HomeButton = () => (
   <NavLink to='/' className='home-button'>
-    <Home width={50} height={50} />
+    <Home width={35} height={35} />
+    Exodes Charnels
   </NavLink>
 );
 

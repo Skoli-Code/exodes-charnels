@@ -1,11 +1,20 @@
 .home-button {
-  width: 70px;
+  padding: 0;
+  padding-right: 15px;
+  padding-left: 5px;
   display: flex;
   align-items: center;
   background-color: #555;
+  color: white;
+  font-size: 1.2em;
+  font-weight: bold;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-decoration: none;
 }
+
 .home-button svg {
   margin: auto;
+  padding-bottom: 3px;
 }
 .home-button svg * {
   fill: white;
