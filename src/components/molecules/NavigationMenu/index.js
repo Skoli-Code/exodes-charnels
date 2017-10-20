@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import MenuIcon from 'components/icons/Menu';
-
 import './styles.css';
+
 class NavbarMenu extends Component {
   constructor(props){
     super(props);
@@ -16,9 +16,10 @@ class NavbarMenu extends Component {
   }
 
   render(){
+    const { children } = this.props;
     const { opened } = this.state;
     return (
-      <div className='menu'>
+      <div className={'menu '+(opened?'menu--opened':'')}>
         <MenuIcon
           className='menu-icon'
           opened={opened}
@@ -27,7 +28,7 @@ class NavbarMenu extends Component {
           onClick={() => this.toggleMenu()}
         />
         <div className='menu-holder'>
-
+          { children }
         </div>
       </div>
     );

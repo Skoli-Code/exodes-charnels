@@ -1,0 +1,8 @@
+.social-sharing {
+  display: flex;
+  /* NAVBAR HEIGHT */
+  height: 60px; 
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 50px;
+}

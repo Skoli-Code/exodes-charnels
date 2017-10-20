@@ -10,7 +10,6 @@ import './styles.css';
 
 const renderers = {
   BlockQuote,
-  Image,
   Code: Underline,
 };
 

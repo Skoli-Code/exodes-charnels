@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 import {
   Introduction,
   Conclusion,
+  Glossaire,
   Home,
   Parcours,
   About,
@@ -20,6 +21,7 @@ class App extends Component {
           <Route path="/introduction" exact component={Introduction}/>
           <Route path="/parcours" component={Parcours}/>
           <Route path="/conclusion" exact component={Conclusion}/>
+          <Route path="/glossaire" exact component={Glossaire}/>
           <Route path="/a-propos" exact component={About}/>
         </div>
       </Router>

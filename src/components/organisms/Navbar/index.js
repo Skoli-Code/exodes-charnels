@@ -1,16 +1,18 @@
 import React from 'react';
-import { Route } from 'react-router-dom';
 import MediaQuery from 'react-responsive';
 import MEDIA_QUERIES from 'constants/media-queries';
 import NavbarContainer from 'containers/Navbar';
 import MainLogo from 'components/molecules/MainLogo';
 import HomeButton from 'components/molecules/HomeButton';
-import IntroductionTab from 'components/molecules/IntroductionTab';
-import AboutTab from 'components/molecules/AboutTab';
-import ParcoursTab from 'components/molecules/ParcoursTab';
-import ConclusionTab from 'components/molecules/ConclusionTab';
-import ParcoursDropdown from 'components/molecules/ParcoursDropdown';
-import NavbarMenu from 'components/organisms/NavbarMenu';
+import SocialSharing from 'components/molecules/SocialSharing';
+import NavigationMenu from 'components/molecules/NavigationMenu';
+import NavigationTabs from 'components/molecules/NavigationTabs';
+
+const SocialSharingTab = () => (
+  <div className='social-sharing-tab'>
+    <SocialSharing/>
+  </div>
+);
 // TODO: 
 // - social buttons
 // - hamburger menu for mobiles / small devices.
@@ -21,18 +23,18 @@ const Navbar = () => (
     <MediaQuery
       query={MEDIA_QUERIES.desktop}
       className='navigation-tabs'> 
-      <IntroductionTab/>
-      <ParcoursTab/>
-      <Route path='/parcours/:slug' component={ParcoursDropdown}/>
-      <ConclusionTab/>
-      <AboutTab/>
+      <NavigationTabs/>
+      <SocialSharingTab/>
     </MediaQuery>
 
     <MediaQuery 
       query={MEDIA_QUERIES.mobile}
       className='navigation-menu'  
     >
-      <NavbarMenu />
+      <NavigationMenu>
+        <SocialSharingTab/>
+        <NavigationTabs/>
+      </NavigationMenu>
     </MediaQuery>
   </NavbarContainer>
 

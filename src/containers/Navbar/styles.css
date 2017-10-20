@@ -11,6 +11,15 @@
 
 .navigation-tabs {
   display: flex;
+  flex-grow: 1;
+}
+.navigation-tabs .social-sharing-tab {
+  flex-grow: 1;
+}
+.navigation-tabs .social-sharing-tab .social-sharing {
+  max-width: 150px;
+  margin: auto;
+  padding: 0;
 }
 
 .navbar .menu {

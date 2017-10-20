@@ -4,7 +4,7 @@ import './styles.css';
 
 const MainLogo = () => (
   <Link className='main-logo' to='https://popsciences.universite-lyon.fr/'>
-    <span class="logo"></span>
+    <span className="logo"></span>
   </Link>
 );
 
