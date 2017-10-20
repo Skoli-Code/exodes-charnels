@@ -1,0 +1,8 @@
+.menu-holder {
+  transition: transform .4s ease-in;
+  transform: translate(100vh, 0);
+}
+
+.menu--open .menu-holder {
+  transform: translate(0, 0);
+}

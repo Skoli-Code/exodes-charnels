@@ -2,12 +2,16 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Markdown from 'react-markdown';
 // custom markdown renderer
+import Underline from 'components/atoms/Underline';
 import BlockQuote from 'components/atoms/BlockQuote';
 import Image from 'components/atoms/Image';
 
+import './styles.css';
+
 const renderers = {
   BlockQuote,
-  Image
+  Image,
+  Code: Underline,
 };
 
 class Content extends Component {

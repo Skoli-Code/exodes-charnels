@@ -1,20 +1,18 @@
 import React from 'react';
 import ButtonLink from 'components/molecules/ButtonLink';
+import './styles.css';
+import cover from './cover.jpg';
 
 const styles = {
-  top: 0,
-  bottom: 0,
-  left: 0,
-  right: 0,
-  textAlign:'center',
-  display: 'flex',
-  position: 'absolute',
-  alignItems: 'center'
+  backgroundImage:`url(${cover})` 
 };
 
 const Home = () => (
-  <div style={styles}>
-    <div style={{'margin': 'auto'}}>
+  <div
+    className='cover'
+    style={styles}
+  >
+    <div className='button-holder'>
       <ButtonLink to='introduction'>EXODES CHARNELS</ButtonLink>
     </div>
   </div>

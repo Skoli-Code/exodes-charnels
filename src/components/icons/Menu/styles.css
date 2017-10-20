@@ -1,0 +1,35 @@
+.close-icon, .open-icon {
+  opacity: 0;
+  pointer-events: none;
+  transform: rotate(180deg);
+  transition: transform .3s ease,
+    opacity .2s ease-out,
+    width .5s ease,
+    height .5s ease;
+}
+
+.close-icon--visible, .open-icon--visible {
+  opacity: 1;
+  transform: rotate(0);
+  pointer-events: auto;
+}
+
+.open-icon {}
+
+.open-icon--visible {}
+
+.menu-icon {
+  /* NAVBAR HEIGHT */
+  height: 60px;
+  width: 60px;
+  position: relative;
+}
+.menu-icon .open-icon, .menu-icon .close-icon {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+
+}

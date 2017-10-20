@@ -1,6 +1,6 @@
 const parcours = [{
   slug: 'fang-chine',
-  storymap_url: 'https://uploads.knightlab.com/storymapjs/cac43a2e018617cd5c087a55cdf7a0f7/map-de-test/index.html',
+  storymap_url: 'https://uploads.knightlab.com/storymapjs/ce8e8bcc8dd8ae3a7d1c2161b0e39696/parcours-chinois/index.html',
   description:`43 ans  
   Arrivée en France le 23 octobre 2015 de **Chine**
   `,
@@ -9,7 +9,7 @@ const parcours = [{
 },{
   pane_image: '/images/keletso-rabalao-384640.jpg',
   slug: 'joy-nigeria',
-  storymap_url: 'https://uploads.knightlab.com/storymapjs/cac43a2e018617cd5c087a55cdf7a0f7/map-de-test/index.html',
+  storymap_url: 'https://uploads.knightlab.com/storymapjs/ce8e8bcc8dd8ae3a7d1c2161b0e39696/prostitute/index.html',
   description:`22 ans  
   Arrivée en France le 12 Septembre 2016 du **Nigéria**
   `,
@@ -17,7 +17,7 @@ const parcours = [{
 },{
   slug: 'milena-bulgarie',
   pane_image: '/images/milena.jpg',
-  storymap_url: 'https://uploads.knightlab.com/storymapjs/cac43a2e018617cd5c087a55cdf7a0f7/map-de-test/index.html',
+  storymap_url: 'https://uploads.knightlab.com/storymapjs/ce8e8bcc8dd8ae3a7d1c2161b0e39696/parcours-bulgare/index.html',
   description:`
   30 ans  
   Arrivée en France le 5 Janvier 2005 de **Bulgarie**
