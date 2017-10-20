@@ -22,3 +22,51 @@
 .button-holder a {
   margin: auto;
 }
+
+.home-text {
+  color: white;
+  position: absolute;
+  left: 100px;
+  top: 10vh;
+  bottom: 10vh;
+}
+/* couleurs des titres */
+.home-text h1, .home-text .subtitle {
+  color: rgb(195,69,40);
+}
+
+/* style du titre principal */
+.home-text h1 {
+  margin-bottom: 0;
+  font-size: 42px;
+}
+/* style du sous-titre */
+.home-text .subtitle {
+  margin-top: 0;
+  font-size: 14px;
+}
+
+.home-text p {
+  width: 300px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  font-size: 1.2em;
+}
+.home-text .logo-white {
+  display: block;
+  margin-top: 10px;
+  width: 200px;
+  height: 95px;
+  background-image: url(./logo-white-200.png);
+}
+@media screen and (-webkit-min-device-pixel-ratio: 1.5),
+   only screen and (-o-min-device-pixel-ratio: 3/2),
+   only screen and (min--moz-device-pixel-ratio: 1.5),
+   only screen and (min-device-pixel-ratio: 1.5) {
+  .home-text .logo-white {
+    background-image: url(./logo-white-200@2x.png);
+    background-size: 200px 95px;
+  }   
+}
