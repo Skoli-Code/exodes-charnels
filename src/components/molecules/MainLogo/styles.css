@@ -2,7 +2,24 @@
   /* PANTONE 2925 C */
   background-color: rgb(0, 152, 219);
   padding: 5px 15px;
+  display: flex;
+  align-items: center;
 }
-.main-logo img {
+.main-logo .logo {
   height: 47px;
+  width: 100px;
+  margin: auto;
+
+  background-image: url(./logo.png);
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (-o-min-device-pixel-ratio: 3/2),
+  only screen and (min--moz-device-pixel-ratio: 1.5),
+  only screen and (min-device-pixel-ratio: 1.5) {
+
+  .main-logo .logo {
+    background-image: url(./logo@2x.png);
+    background-size: 100px 47px;
+  }
 }

@@ -1,12 +1,13 @@
 .home-button {
   padding: 0;
   padding-right: 15px;
-  padding-left: 5px;
+  padding-left: 0px;
   display: flex;
   align-items: center;
   background-color: #555;
   color: white;
   font-size: 1.2em;
+  line-height: 1em;
   font-weight: bold;
   font-family: 'Roboto Condensed', sans-serif;
   text-decoration: none;
