@@ -30,9 +30,11 @@
   top: 10vh;
   bottom: 10vh;
 }
+
 /* couleurs des titres */
 .home-text h1, .home-text .subtitle {
   color: rgb(195,69,40);
+  text-shadow: 0 0 2px #000;
 }
 
 /* style du titre principal */
