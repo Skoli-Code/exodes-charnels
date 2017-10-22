@@ -48,6 +48,10 @@ You need to change the style defined in the main component `components/atoms/Con
 - `components/atoms/BlockQuote/styles.css`
 - `components/atoms/Image/styles.css`
 
+## Configure the application
+This app uses various constants. 
+- `src/constants/parcours.js` holds the 3 configured parcours with their photos, description, title and storymap URLs.
+- `src/constants/social.js` is holding the Facebook and Twitter configuration variables. 
 
 ## Add a page to the application
 
@@ -113,7 +117,8 @@ import {
 </Router>
 ```
 
-### 4. Add a navigtion tab to the navbar
+### 4. Add a navigtion tab to the navbar (and to the menu)
 1. Create a component for the tab (you can copy another tab to do that, `components/molecules/ConclusionTab` for instance.
 2. Edit it to have the proper link and text
-3. Import it in `components/organisms/Navbar/index.js` and add it to the existing tabs. 
+3. Import it in `components/molecules/NavigationTabs/index.js` and add it to the existing tabs.
+
