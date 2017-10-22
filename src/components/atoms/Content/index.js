@@ -4,7 +4,6 @@ import Markdown from 'react-markdown';
 // custom markdown renderer
 import Underline from 'components/atoms/Underline';
 import BlockQuote from 'components/atoms/BlockQuote';
-import Image from 'components/atoms/Image';
 
 import './styles.css';
 

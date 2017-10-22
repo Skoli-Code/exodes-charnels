@@ -3,26 +3,13 @@ import FacebookProvider, { Share } from 'react-facebook';
 import {
   FACEBOOK_APP_ID,
   FACEBOOK_SDK_VERSION,
-  TWEET_INTENT_URL,
-  TWEET_TEXT,
-  TWEET_HASHTAGS,
+  getTwitterShareHREF,
 } from 'constants/social';
 
 import FacebookIcon from 'components/icons/Facebook';
 import TwitterIcon from 'components/icons/Twitter';
 
 import './styles.css';
-
-const getCurrentHref = () => window.location.href;
-
-const twitterHref = () => {
-  const url = getCurrentHref();
-  return `${TWEET_INTENT_URL}?text=${
-    encodeURIComponent(TWEET_TEXT)
-  }&url=${
-    encodeURIComponent(url)
-  }&hashtags=${TWEET_HASHTAGS}`;
-};
 
 const openModal = (href, w, h) => {
   const ww = window.innerWidth;
@@ -35,7 +22,7 @@ const openModal = (href, w, h) => {
 };
 
 const shareTwitter = () => {
-  const href = twitterHref();
+  const href = getTwitterShareHREF();
   openModal(href, 600, 320);
 };
 

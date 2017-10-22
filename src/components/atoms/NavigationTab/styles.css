@@ -10,7 +10,7 @@
 }
 
 .navigation-tab:hover, .navigation-tab--active {
-  /* Small variation of PANTONE WARM GREY 7 C */
-  background-color: rgb(110, 103, 97);
+  /* PRIMARY COLOR */
+  background-color: rgb(195,69,40);
 }
 

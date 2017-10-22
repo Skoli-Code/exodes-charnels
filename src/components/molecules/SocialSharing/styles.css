@@ -6,3 +6,12 @@
   align-items: center;
   padding: 0 50px;
 }
+.social-sharing svg {
+  fill: #333;
+  transition: fill .25s ease;
+  cursor: pointer;
+}
+.social-sharing svg:hover {
+  /* PRIMARY COLOR */
+  fill: rgb(195,69,40);
+}

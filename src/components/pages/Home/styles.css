@@ -27,12 +27,14 @@
   color: white;
   position: absolute;
   left: 100px;
+  right: 100px;
   top: 10vh;
   bottom: 10vh;
 }
 
 /* couleurs des titres */
 .home-text h1, .home-text .subtitle {
+  /* PRIMARY COLOR */
   color: rgb(195,69,40);
   text-shadow: 0 0 2px #000;
 }
@@ -49,7 +51,7 @@
 }
 
 .home-text p {
-  width: 300px;
+  width: 330px;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -63,6 +65,7 @@
   height: 95px;
   background-image: url(./logo-white-200.png);
 }
+
 @media screen and (-webkit-min-device-pixel-ratio: 1.5),
    only screen and (-o-min-device-pixel-ratio: 3/2),
    only screen and (min--moz-device-pixel-ratio: 1.5),
@@ -71,4 +74,38 @@
     background-image: url(./logo-white-200@2x.png);
     background-size: 200px 95px;
   }   
+}
+
+/* Mobile design */
+@media screen and (max-width: 720px){
+  .home-text {
+    left: 25px;
+    right: 25px;
+    bottom: 25px;
+    top: 50px;
+  }
+  .home-text h1 {
+    margin-top: 5px;
+  }
+  .home-text .centered {
+    margin-top: 20px;
+  }
+  .home-text p {
+    width: auto;
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (max-height: 510px){
+  .home-text p {
+    position: static;
+    font-size: 1.05em;
+    width: auto;
+  }
+
+  .home-text .logo-white {
+    width: 100px;
+    height: 48px;
+    background-size: 100px 48px;
+  }
 }
