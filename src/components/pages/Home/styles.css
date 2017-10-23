@@ -66,6 +66,19 @@
   background-image: url(./logo-white-200.png);
 }
 
+h5 {
+  font-size: 1em;
+  font-weight: normal;
+  text-align: center;
+  font-style: italic;
+}
+h6 {
+  font-size: 0.9em;
+  font-weight: 100;
+  text-align: center;
+  font-style: italic;
+}
+
 @media screen and (-webkit-min-device-pixel-ratio: 1.5),
    only screen and (-o-min-device-pixel-ratio: 3/2),
    only screen and (min--moz-device-pixel-ratio: 1.5),
