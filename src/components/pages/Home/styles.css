@@ -47,7 +47,7 @@
 /* style du sous-titre */
 .home-text .subtitle {
   margin-top: 0;
-  font-size: 14px;
+  font-size: 25px;
 }
 
 .home-text p {
@@ -73,7 +73,7 @@
   .home-text .logo-white {
     background-image: url(./logo-white-200@2x.png);
     background-size: 200px 95px;
-  }   
+  }
 }
 
 /* Mobile design */

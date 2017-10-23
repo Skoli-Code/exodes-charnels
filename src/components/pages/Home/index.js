@@ -8,7 +8,7 @@ import './styles.css';
 import cover from './cover.jpg';
 
 const styles = {
-  backgroundImage:`url(${cover})` 
+  backgroundImage:`url(${cover})`
 };
 
 const Home = () => (
@@ -20,20 +20,20 @@ const Home = () => (
       <h1>Exode(s) Charnel(s)</h1>
       <h2 className='subtitle'>De la migration à la prostitution</h2>
       <MediaQuery query={`${MEDIA_QUERIES.mobile}, ${MEDIA_QUERIES.smallHeight}`}>
-        <Centered><ButtonLink to='introduction'>EXODES CHARNELS</ButtonLink></Centered>
+        <Centered><ButtonLink to='introduction'>COMMENCER</ButtonLink></Centered>
       </MediaQuery>
       <p>
-        Une application proposée par l’Univers de Lyon dans le cadre des rencontres <br />
+        Une application proposée par l’Université de Lyon dans le cadre des rencontres <br />
         « Et si on en parlait ? »
         <span className='logo-white'/>
       </p>
     </div>
     <MediaQuery query={`${MEDIA_QUERIES.desktop} and ${MEDIA_QUERIES.normalHeight}`}>
       <div className='button-holder'>
-        <ButtonLink to='introduction'>EXODES CHARNELS</ButtonLink>
+        <ButtonLink to='introduction'>COMMENCER</ButtonLink>
       </div>
     </MediaQuery>
   </div>
 );
 
-export default Home; 
+export default Home;
