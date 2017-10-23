@@ -19,7 +19,7 @@
   width: 60px;
   /* PANTONE : 1235 C */
   /*background-color: rgb(255, 182, 18);*/
-  background-color: rgba(195,69,40,0.8);
+  background-color: rgba(246,118,88,1);
   color: white;
   line-height: 60px;
 }
@@ -47,7 +47,8 @@
 }
 
 .Dropdown-option:hover {
-  background-color: rgb(237, 164, 0);
+  /*background-color: rgb(237, 164, 0);*/
+  background-color: rgba(246,118,88,1);
 }
 
 .Dropdown-arrow {
