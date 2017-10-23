@@ -6,11 +6,11 @@
   text-decoration: none;
   color: white;
   transition: background-color .3s ease;
-  background-color: rgb(152, 143, 134);/* PANTONE WARM GREY 7 C */
+  /*background-color: rgb(152, 143, 134);PANTONE WARM GREY 7 C */
+  background-color: black;
 }
 
 .navigation-tab:hover, .navigation-tab--active {
   /* PRIMARY COLOR */
   background-color: rgb(195,69,40);
 }
-

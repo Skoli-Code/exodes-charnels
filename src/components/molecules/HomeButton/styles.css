@@ -1,10 +1,11 @@
 .home-button {
   padding: 0;
-  padding-right: 15px;
+  padding-right: 0px;
   padding-left: 0px;
   display: flex;
   align-items: center;
-  background-color: #555;
+  /*background-color: #555;*/
+  background-color: black;
   color: white;
   font-size: 1.2em;
   line-height: 1em;
