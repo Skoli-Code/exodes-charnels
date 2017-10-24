@@ -11,7 +11,7 @@
   width: 100px;
   margin: auto;
 
-  background-image: url(./logo1.png);
+  background-image: url(./logo1.svg);
 }
 
 @media screen and (-webkit-min-device-pixel-ratio: 1.5),
@@ -20,7 +20,7 @@
   only screen and (min-device-pixel-ratio: 1.5) {
 
   .main-logo .logo {
-    background-image: url(./logo1.png);
+    background-image: url(./logo1.svg);
     background-size: 100px 47px;
   }
 }
