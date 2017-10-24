@@ -15,7 +15,7 @@ Université de Lyon </br>
 France</br>
 
 **Direction de la publication :** Khaled Bouabdallah </br>
-**Coordination éditoriale :** Université de Lyon </br>
+**Coordination éditoriale :** Direction Culture Sciences et Société de l’Université de Lyon </br>
 **Conception graphique :** [Agence Skoli](http://skoli.fr) / Université de Lyon </br>
 **Intégration graphique et développement :** [Agence Skoli](http://skoli.fr) </br>
 
