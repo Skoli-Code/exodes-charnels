@@ -4,42 +4,48 @@
 	 viewBox="0 0 800 500" style="enable-background:new 0 0 800 500;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#CCCCCC;}
-	.st1{font-family:'ArialMT';}
-	.st2{font-size:16px;}
-	.st3{fill:#BF6969;}
-	.st4{fill:#69BFBF;}
+	.st1{font-family:'Arial-BoldMT';}
+	.st2{font-size:14px;}
+	.st3{fill:#FCB6A6;}
+	.st4{fill:none;}
+	.st5{font-family:'Arial-ItalicMT';}
+	.st6{fill:#51AF8E;}
+	.st7{opacity:0.4;fill:none;stroke:#0E0043;stroke-width:0.25;}
 </style>
 <g>
 	<g transform="translate(0,480)">
 		<g transform="translate(42.07492795389049,0)">
-			<line class="st0" x1="0" y1="0" x2="0" y2="-480"/>
-			<text transform="matrix(1 0 0 1 -19.1231 15.1)" class="st1 st2">1996</text>
+			<line class="st0" x1="1" y1="0" x2="1" y2="-480"/>
+			<text transform="matrix(1 0 0 1 -18.1231 15.1)" class="st1 st2">1996</text>
 		</g>
 		<g transform="translate(210.48991354466858,0)">
-			<line class="st0" x1="0" y1="0" x2="0" y2="-480"/>
-			<text transform="matrix(1 0 0 1 -20.123 15.1)" class="st1 st2">2000</text>
+			<line class="st0" x1="1" y1="0" x2="1" y2="-480"/>
+			<text transform="matrix(1 0 0 1 -19.123 15.1)" class="st1 st2">2000</text>
 		</g>
 		<g transform="translate(378.90489913544667,0)">
-			<line class="st0" x1="0" y1="0" x2="0" y2="-480"/>
-			<text transform="matrix(1.0367 0 0 1 -18.1232 15.2891)" class="st1 st2">2004</text>
+			<line class="st0" x1="1" y1="0" x2="1" y2="-480"/>
+			<text transform="matrix(1.0367 0 0 1 -17.1227 15.2891)" class="st1 st2">2004</text>
 		</g>
 		<g transform="translate(547.3198847262248,0)">
-			<line class="st0" x1="0" y1="0" x2="0" y2="-480"/>
-			<text transform="matrix(1 0 0 1 -19.123 15.1)" class="st1 st2">2008</text>
+			<line class="st0" x1="1" y1="0" x2="1" y2="-480"/>
+			<text transform="matrix(1 0 0 1 -18.123 15.1)" class="st1 st2">2008</text>
 		</g>
 		<g transform="translate(715.7348703170029,0)">
-			<line class="st0" x1="0" y1="0" x2="0" y2="-480"/>
-			<text transform="matrix(1 0 0 1 -19.123 15.1)" class="st1 st2">2012</text>
+			<line class="st0" x1="1" y1="0" x2="1" y2="-480"/>
+			<text transform="matrix(1 0 0 1 -18.123 15.1)" class="st1 st2">2012</text>
 		</g>
-		<path class="st0" d="M0-480V0h800v-480"/>
+		<path class="st0" d="M1-480V0h800v-480"/>
 	</g>
-	<path class="st3" d="M0,105.6L28.1,124c28.1,18.4,84.2,55.2,126.3,81.6s70.2,42.4,91.3,56c21.1,13.6,35.1,24.8,49.1,48.8
-		c14,24,28,60.8,77.2,82.4c49.1,21.6,133.4,28,182.5,32.8c49.1,4.8,63.2,8,98.2,11.2c35.1,3.2,91.2,6.4,119.3,8l28.1,1.6V480h-28.1
-		c-28.1,0-84.2,0-119.3,0c-35.1,0-49.1,0-98.2,0c-49.1,0-133.4,0-182.5,0s-63.2,0-77.2,0c-14,0-28,0-49.1,0c-21.1,0-49.1,0-91.3,0
-		s-98.3,0-126.3,0H0V105.6z"/>
-	<path class="st4" d="M0,0h28.1c28.1,0,84.2,0,126.3,0s70.2,0,91.3,0c21.1,0,35.1,0,49.1,0c14,0,28,0,77.2,0s133.4,0,182.5,0
-		c49.1,0,63.2,0,98.2,0c35.1,0,91.2,0,119.3,0H800v446.4l-28.1-1.6c-28.1-1.6-84.2-4.8-119.3-8c-35.1-3.2-49.1-6.4-98.2-11.2
-		c-49.1-4.8-133.4-11.2-182.5-32.8c-49.1-21.6-63.2-58.4-77.2-82.4c-14-24-28-35.2-49.1-48.8c-21.1-13.6-49.1-29.6-91.3-56
-		S56.1,142.4,28.1,124L0,105.6V0z"/>
+	<path class="st3" d="M1,105.6L29.1,124c28.1,18.4,84.2,55.2,126.3,81.6s70.2,42.4,91.3,56s35.1,24.8,49.1,48.8s28,60.8,77.2,82.4
+		c49.1,21.6,133.4,28,182.5,32.8s63.2,8,98.2,11.2c35.1,3.2,91.2,6.4,119.3,8l28.1,1.6V480H773c-28.1,0-84.2,0-119.3,0
+		s-49.1,0-98.2,0s-133.4,0-182.5,0s-63.2,0-77.2,0s-28,0-49.1,0s-49.1,0-91.3,0s-98.3,0-126.3,0H1V105.6z"/>
+	<rect x="728" y="450.9" class="st4" width="92.1" height="16.4"/>
+	<text transform="matrix(1 0 0 1 727.9698 460.8807)" class="st5 st2">Française</text>
+	<path class="st6" d="M1,0h28.1c28.1,0,84.2,0,126.3,0s70.2,0,91.3,0s35.1,0,49.1,0s28,0,77.2,0s133.4,0,182.5,0s63.2,0,98.2,0
+		c35.1,0,91.2,0,119.3,0h28v446.4l-28.1-1.6c-28.1-1.6-84.2-4.8-119.3-8s-49.1-6.4-98.2-11.2c-49.1-4.8-133.4-11.2-182.5-32.8
+		c-49.1-21.6-63.2-58.4-77.2-82.4s-28-35.2-49.1-48.8c-21.1-13.6-49.1-29.6-91.3-56S57.1,142.4,29.1,124L1,105.6V0z"/>
+	<rect x="728" y="420" class="st4" width="92.1" height="16.4"/>
+	<text transform="matrix(1 0 0 1 727.9698 430.0498)" class="st5 st2">Etrangère</text>
 </g>
+<line class="st7" x1="801.1" y1="240" x2="0" y2="240"/>
 </svg>
