@@ -51,7 +51,6 @@
 }
 
 
-
 .home-text p {
   width: 330px;
   position: absolute;
@@ -63,9 +62,18 @@
 .home-text .logo-white {
   display: block;
   margin-top: 10px;
+  margin-bottom: 10px;
   width: 200px;
   height: 95px;
   background-image: url(./logo-white-200.png);
+}
+
+.home-text .logo-esoep {
+  display: block;
+  margin-top: 10px;
+  width: 90px;
+  height: 90px;
+  background-image: url(./esoep.svg);
 }
 
 h5 {

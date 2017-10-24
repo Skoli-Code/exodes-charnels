@@ -23,9 +23,10 @@ const Home = () => (
         <Centered><ButtonLink to='introduction'>COMMENCER</ButtonLink></Centered>
       </MediaQuery>
       <p>
-        Une application proposée par l’Université de Lyon dans le cadre des rencontres <br />
-        « Et si on en parlait ? »
+        Une application proposée par
         <span className='logo-white'/>
+        Dans le cadre des rencontres
+        <span className='logo-esoep'/>
       </p>
     </div>
     <MediaQuery query={`${MEDIA_QUERIES.desktop} and ${MEDIA_QUERIES.normalHeight}`}>
