@@ -1,9 +1,9 @@
 const getCurrentHref = () => window.location.href;
 
 const TWEET_INTENT_URL = 'https://twitter.com/intent/tweet';
-const TWEET_TEXT = 'Some tweet text';
-// hashtags must be separated by commas. 
-const TWEET_HASHTAGS = 'multiple,hashtags';
+const TWEET_TEXT = 'Trois parcours de migration prostitutionnelle à retrouver';
+// hashtags must be separated by commas.
+const TWEET_HASHTAGS = 'Science, ScienceSociété, Pute';
 const TWEET_VIA_ACCOUNT = '';
 // you can add parameters for twitter sharing.
 // See https://dev.twitter.com/web/tweet-button/web-intent
@@ -30,7 +30,7 @@ export const getTwitterShareHREF = () => {
     } else {
       return null;
     }
-  }).filter(param => param && param.length); 
+  }).filter(param => param && param.length);
   return `${TWEET_INTENT_URL}?${TWEET_INTENT_URL_PARAMS.join('&')}`;
 }
 
