@@ -35,7 +35,7 @@
 /* couleurs des titres */
 .home-text h1, .home-text .subtitle {
   /* PRIMARY COLOR */
-  color: rgb(195,69,40);
+  color: rgb(237,41,57);
   text-shadow: 0 0 2px #000;
 }
 
@@ -45,10 +45,12 @@
   font-size: 42px;
 }
 /* style du sous-titre */
-.home-text .subtitle {
+.home-text .subtitle h2 {
   margin-top: 0;
   font-size: 25px;
 }
+
+
 
 .home-text p {
   width: 330px;

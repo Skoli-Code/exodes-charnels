@@ -10,7 +10,7 @@
 .Dropdown-control:hover {
   /* PANTONE : 1235 C */
   /*background-color: rgba(255, 182, 18, 1);*/
-  background-color: rgba(195,69,40,1);
+  background-color: rgba(237,41,57,1);
 }
 
 .Dropdown-control {
@@ -19,7 +19,7 @@
   width: 70px;
   /* PANTONE : 1235 C */
   /*background-color: rgb(255, 182, 18);*/
-  background-color: rgba(246,118,88,1);
+  background-color: rgba(152,143,134,1);
   color: white;
   line-height: 60px;
 }
@@ -40,7 +40,7 @@
 .Dropdown-option {
   transition: background-color .3s ease;
   /*background-color: rgb(255, 182, 18);*/
-  background-color: rgba(195,69,40,1);
+  background-color: rgba(237,41,57,1);
   /* NAVBAR HEIGHT */
   line-height: 60px;
   padding: 0 15px;
@@ -48,7 +48,7 @@
 
 .Dropdown-option:hover {
   /*background-color: rgb(237, 164, 0);*/
-  background-color: rgba(246,118,88,1);
+  background-color: rgba(152,143,134,1);
 }
 
 .Dropdown-arrow {
@@ -60,13 +60,13 @@
   height: 0;
   margin-top: -ceil(2.5);
   position: absolute;
-  left: 12.5px;
+  right: 10px;
   top: 28px;
   width: 0;
-  transform: rotate(-90deg);
+  transform: rotate(0deg);
   transition: transform .3s ease;
 }
 
 .is-open .Dropdown-arrow {
-  transform: rotate(0deg);
+  transform: rotate(-90deg);
 }
