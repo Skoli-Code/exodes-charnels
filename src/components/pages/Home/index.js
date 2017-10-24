@@ -18,7 +18,7 @@ const Home = () => (
   >
     <div className='home-text'>
       <h1>Exode(s) Charnel(s)</h1>
-      <h2 className='subtitle'>Parcours : De la migration à la prostitution</h2>
+      <h2 className='subtitle'>Trois parcours de la migration à la prostitution </h2>
       <MediaQuery query={`${MEDIA_QUERIES.mobile}, ${MEDIA_QUERIES.smallHeight}`}>
         <Centered><ButtonLink to='introduction'>COMMENCER</ButtonLink></Centered>
       </MediaQuery>
