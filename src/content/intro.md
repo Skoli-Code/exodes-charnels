@@ -82,5 +82,5 @@ Françoise Guillemaud
 L’un des objectifs majeurs sous-tendu par l’ensemble de ces textes est en réalité l’empêchement de toute forme d’immigration par la répression, ainsi que le maintien des femmes dans leurs familles et dans leur pays.*“
 Françoise Guillemaud
 
-A travers les parcours, fictifs, de trois prostituées originaires de Chine, du Nigéria et de Bulgarie, tentons de comprendre les logiques migratoires et prostitutionnelles. Ces parcours ont été élaborés à partir de travaux de recherchers universitaires.
+A travers les parcours, fictifs, de trois prostituées originaires de Chine, du Nigéria et de Bulgarie, tentons de comprendre les logiques migratoires et prostitutionnelles. Ces parcours ont été élaborés à partir de travaux de recherche universitaire.
 </br></br></br>
