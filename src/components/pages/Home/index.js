@@ -6,7 +6,7 @@ import MEDIA_QUERIES from 'constants/media-queries';
 
 import './styles.css';
 import cover from './cover.jpg';
-import logo_esoep from './esoep.svg'
+import logo_esoep from './esoep.png'
 
 const styles = {
   backgroundImage:`url(${cover})`
