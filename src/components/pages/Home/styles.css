@@ -109,6 +109,11 @@ h6 {
   }
   .home-text h1 {
     margin-top: 5px;
+    font-size: 2em;
+  }
+  .home-text h2 {
+    margin-top: 5px;
+    font-size: 1.5em;
   }
   .home-text .centered {
     margin-top: 10px;

@@ -57,7 +57,9 @@
   .parcours-gallery__panes {
     flex-direction: column;
   }
-
+  .parcours-gallery__panes p {
+    font-size: 0.9em;
+  }
   .parcours-gallery__pane-background {
     background-size: cover;
     background-position: 0;
