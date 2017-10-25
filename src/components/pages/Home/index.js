@@ -6,6 +6,7 @@ import MEDIA_QUERIES from 'constants/media-queries';
 
 import './styles.css';
 import cover from './cover.jpg';
+import logo_esoep from './esoep.svg'
 
 const styles = {
   backgroundImage:`url(${cover})`
@@ -26,7 +27,7 @@ const Home = () => (
         Une application proposée par
         <span className='logo-white'/>
         Dans le cadre des rencontres
-        <span className='logo-esoep'/>
+        <img src={logo_esoep} className="logo_esoep"/>
       </p>
     </div>
     <MediaQuery query={`${MEDIA_QUERIES.desktop} and ${MEDIA_QUERIES.normalHeight}`}>

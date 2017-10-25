@@ -68,9 +68,11 @@
   background-image: url(./logo-white-200.png);
 }
 
-.home-text .logo-esoep {
+
+.home-text .logo_esoep {
   display: block;
-  margin-top: 10px;
+  margin-left: 0px;
+  margin-top: 15px;
   width: 90px;
   height: 90px;
   background-image: url(./esoep.svg);
