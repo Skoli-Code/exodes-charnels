@@ -1,8 +1,8 @@
 # À propos
+Ce projet numérique a été réalisé dans le cadre de la 13e édition des rencontres “[Et si on en parlait]((http://etsionenparlait.hypotheses.org))” organisées par la Direction Culture, Sciences et Société de l’Université de Lyon.
 
 Un mois et demi durant [du 18 octobre au 28 novembre 2017] et au travers de tables rondes, concerts, débats, balades en ville, ateliers, projections, conférences, spectacles, expositions,etc. nous avons ouvert des espaces de rencontre et de dialogue autour des Migration(s). Ces Hommes et cultures en mouvement.
 
-[etsionenparlait.hypotheses.org](http://etsionenparlait.hypotheses.org)
 
 Cette édition des rencontres “Et si on en parlait” s’est tenue pour sortir du tourment médiatique, prendre le temps de l'enquête, de l'analyse et du débat. Les recherches en histoire, anthropologie, sociologie, sciences politiques, environnement, etc. offrant une approche plus large, contextualisée et au-delà des controverses de ces phénomènes.
 
