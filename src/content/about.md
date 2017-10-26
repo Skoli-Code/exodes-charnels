@@ -75,4 +75,4 @@ France</br>
 - [residue (1)](https://www.flickr.com/photos/paulk/9646522435/in/photolist-fGqX3k), Paul Keller, [Attribution 2.0 Generic (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/).
 
 **Graphiques et charts**</br>
-Réalisés par l'agence Skoli(www.skoli.fr) pour l'Université de Lyon
+Réalisés par l'agence [Skoli](www.skoli.fr) pour l'Université de Lyon.
