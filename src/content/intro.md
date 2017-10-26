@@ -1,7 +1,10 @@
 # Introduction
 
-Ce projet numérique a été réalisé dans le cadre de la 13e édition des rencontres “Et si on en parlait” organisées par la Direction Culture, Sciences et Société de l’Université de Lyon.
 
+*Ce projet numérique a été réalisé dans le cadre de la 13e édition des rencontres “Et si on en parlait” organisées par la Direction Culture, Sciences et Société de l’Université de Lyon.*
+
+---
+---
 
 ## La Situation actuelle
 ### La chute de la prostitution traditionnelle
