@@ -21,7 +21,7 @@ Les vagues de prostitution étrangère :
 Le début des années 1990 a été marqué par l’arrivée de prostituées de nationalité algérienne et marocaine, puis dans un second temps la prostitution en provenance des pays de l’ex-Yougoslavie très visible et particulièrement médiatisée (en raison des méthodes brutales des filières qui la structurait) s’est implantée.
 La fin des années 1990 et le début des années 2000 a vu l’émergence d’une prostitution massive d’origine africaine, quelques années plus tard, l’arrivée dans les rues de prostituées chinoises a clôt, jusqu’à présent, les changements dans la structuration de la filière prostitutionnelle.
 
-##### Répartition nationale des femmes mises en cause pour racolage par la police nationale en 2010
+##### Répartition par origine régionale des femmes mises en cause pour racolage par la police nationale en 2010 (en %)
 
 ![test](/images/test.svg)
 
