@@ -15,7 +15,7 @@ Abordés depuis peu dans une réflexion associant les deux sujets, Migration et 
 Nous observons également que, de la suprématie de l’intérêt propre, ces femmes sont malgré elles poussées à une forme d’acceptation de la violence ou d’insécurité. Et la condition de migrante ajoute même des "étapes de violences" (rite, dette, embrigadement, réseaux, etc.) à celles déjà importante des conditions *in situ* (sanitaires et sociales pour ne citer qu’elles). L’exploitation des corps se confond alors pour ces femmes dans une triple démarche : pécuniaire, de survie et de travail.
 
 >C'est parce que qu’elles sont exclues du marché du travail, en tant qu’étrangères sans papiers allophones et en raison de leur sexe, que leur corps devient l’un des seuls biens qu’elles peuvent marchander. C’est dans la mesure où les rapports sociaux de sexe défavorisent largement les femmes et contribuent à les « sexualiser » que l’usage de leur sexualité devient une ressource pour nos interlocutrices – et non en raison d’une quelconque « nature » dépravée, comme tendent à les présenter d’autres Chinois de Paris.</br>
-**Florence Liber et Marylène Levy**
+(Florence Liber et Marylène Levy)
 
 ## Contradictions et tabous
 Les trois parcours décrits, montrent également des rapports ambivalents des sociétés à la sexualité, ainsi qu’une prégnance des rapports de dominants/dominés et de ségrégations séxuées,  impactent de facto fortement la condition des travailleu.se.rs du sexe ; et plus globalement démontrent une catégorisation hâtive de la figure de prostituée. </br>
@@ -26,7 +26,7 @@ Pour illustrer, nous pourrions évoquer plusieurs contradictions, parmi lesquell
 
 Egalement, Lilian Mathieu le précise bien, le rôle joué par des réseaux mafieux dans la prostitution est plus difficile à saisir qu’on ne le croit.
 
->La récurrence de l'invocation du rôle des « mafias » n'a d'égale que la méconnaissance de ce en quoi elles consistent, de leurs modes d'organisation, de leur recrutement et de leur modus operandi. Les récits de prostituées migrantes [Davies, 2009 ; Solana Ruiz et López Riopedre, 2012] suggèrent de ce point de vue que le trafiquant appartenant à un réseau de criminalité internationale n'est pas la cause ultime de leur prostitution, mais un moyen appelé par le jeu de rapports économiques, politiques et sociaux foncièrement genrés. Ce sont ces rapports inégalitaires qui contribuent au premier chef à produire une pauvreté endémique des femmes à laquelle certaines tentent d'échapper en migrant. </br> **Lilian Mathieu**
+>La récurrence de l'invocation du rôle des « mafias » n'a d'égale que la méconnaissance de ce en quoi elles consistent, de leurs modes d'organisation, de leur recrutement et de leur modus operandi. Les récits de prostituées migrantes [Davies, 2009 ; Solana Ruiz et López Riopedre, 2012] suggèrent de ce point de vue que le trafiquant appartenant à un réseau de criminalité internationale n'est pas la cause ultime de leur prostitution, mais un moyen appelé par le jeu de rapports économiques, politiques et sociaux foncièrement genrés. Ce sont ces rapports inégalitaires qui contribuent au premier chef à produire une pauvreté endémique des femmes à laquelle certaines tentent d'échapper en migrant. </br> (Lilian Mathieu)
 
 
 
