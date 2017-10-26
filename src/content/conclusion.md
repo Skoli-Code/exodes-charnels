@@ -1,21 +1,21 @@
 # Conclusion
 
 ## Migrant(e). Comme les autres
-Donner à comprendre la prostitution par le prisme des migrations, c’est avant tout l’occasion de sortir de l’analyse des gestions publiques “des moeurs et des corps”. C’est également se détacher des regards contradictoires portés sur les prostituées elles-mêmes : à la fois victimes et participant de troubles à l’ordre public.
+Donner à comprendre la prostitution par le prisme des migrations, c’est avant tout l’occasion de sortir de l’analyse des gestions publiques "des moeurs et des corps". C’est également se détacher des regards contradictoires portés sur les prostituées elles-mêmes : à la fois victimes et participant de troubles à l’ordre public.
 
 Abordés depuis peu dans une réflexion associant les deux sujets, Migration et Prostitution recouvrent pourtant ensemble, une réalité socio-historique importante. En effet la population concernée et les terrains d’enquêtes ont pu paraître peu aisés à approcher (moins désormais) tant la conjonction des situations personnelles  pousse ces personnes au ban de la Société [1] :
 - l’illégalité de la situation,
 - les origines étrangères des concernées
 - les valeurs traditionnelles contrecarrées par un rapport au corps différent, un rapport aux institutions différent (mariage, famille, religion) et un rapport aux hommes … différent, etc.
 
-“Exodes charnels”, dispositifs numérique novateur et impulsé par l’Université de Lyon a pu vous démontrer que depuis quelques dizaines d’années et grâce aux travaux précurseurs de plusieurs chercheur-e-s [2], les études relatives à cette minorité composée des femmes combinant les conditions de prostituées et de migrantes, permettent de donner des clés de compréhension de phénomènes plus larges de nos sociétés : l’évolution des rapports sociaux au sexe, les mutations des flux migratoires et leurs conséquences, la réalité des rapports femmes/hommes dans le monde et le concret des conditions de la prostitution (depuis les raisons de l’émigration jusqu’à l’arrivée, la mercantilisation du corps, en passant par la dette, le rite - s’il en est -, le réseau, etc…).
+"Exodes charnels", dispositifs numérique novateur et impulsé par l’Université de Lyon a pu vous démontrer que depuis quelques dizaines d’années et grâce aux travaux précurseurs de plusieurs chercheur-e-s [2], les études relatives à cette minorité composée des femmes combinant les conditions de prostituées et de migrantes, permettent de donner des clés de compréhension de phénomènes plus larges de nos sociétés : l’évolution des rapports sociaux au sexe, les mutations des flux migratoires et leurs conséquences, la réalité des rapports femmes/hommes dans le monde et le concret des conditions de la prostitution (depuis les raisons de l’émigration jusqu’à l’arrivée, la mercantilisation du corps, en passant par la dette, le rite - s’il en est -, le réseau, etc…).
 
 
 ## Travail et survie
-Nous observons également que, de la suprématie de l’intérêt propre, ces femmes sont malgré elles poussées à une forme d’acceptation de la violence ou d’insécurité. Et la condition de migrante ajoute même des “étapes de violences” (rite, dette, embrigadement, réseaux, etc.) à celles déjà importante des conditions *in situ* (sanitaires et sociales pour ne citer qu’elles). L’exploitation des corps se confond alors pour ces femmes dans une triple démarche : pécuniaire, de survie et de travail.
+Nous observons également que, de la suprématie de l’intérêt propre, ces femmes sont malgré elles poussées à une forme d’acceptation de la violence ou d’insécurité. Et la condition de migrante ajoute même des "étapes de violences" (rite, dette, embrigadement, réseaux, etc.) à celles déjà importante des conditions *in situ* (sanitaires et sociales pour ne citer qu’elles). L’exploitation des corps se confond alors pour ces femmes dans une triple démarche : pécuniaire, de survie et de travail.
 
 >C'est parce que qu’elles sont exclues du marché du travail, en tant qu’étrangères sans papiers allophones et en raison de leur sexe, que leur corps devient l’un des seuls biens qu’elles peuvent marchander. C’est dans la mesure où les rapports sociaux de sexe défavorisent largement les femmes et contribuent à les « sexualiser » que l’usage de leur sexualité devient une ressource pour nos interlocutrices – et non en raison d’une quelconque « nature » dépravée, comme tendent à les présenter d’autres Chinois de Paris.</br>
-Liber et Levy
+**Florence Liber et Marylène Levy**
 
 ## Contradictions et tabous
 Les trois parcours décrits, montrent également des rapports ambivalents des sociétés à la sexualité, ainsi qu’une prégnance des rapports de dominants/dominés et de ségrégations séxuées,  impactent de facto fortement la condition des travailleu.se.rs du sexe ; et plus globalement démontrent une catégorisation hâtive de la figure de prostituée. </br>
@@ -26,7 +26,7 @@ Pour illustrer, nous pourrions évoquer plusieurs contradictions, parmi lesquell
 
 Egalement, Lilian Mathieu le précise bien, le rôle joué par des réseaux mafieux dans la prostitution est plus difficile à saisir qu’on ne le croit.
 
->La récurrence de l'invocation du rôle des « mafias » n'a d'égale que la méconnaissance de ce en quoi elles consistent, de leurs modes d'organisation, de leur recrutement et de leur modus operandi. Les récits de prostituées migrantes [Davies, 2009 ; Solana Ruiz et López Riopedre, 2012] suggèrent de ce point de vue que le trafiquant appartenant à un réseau de criminalité internationale n'est pas la cause ultime de leur prostitution, mais un moyen appelé par le jeu de rapports économiques, politiques et sociaux foncièrement genrés. Ce sont ces rapports inégalitaires qui contribuent au premier chef à produire une pauvreté endémique des femmes à laquelle certaines tentent d'échapper en migrant. </br> Lilian Mathieu
+>La récurrence de l'invocation du rôle des « mafias » n'a d'égale que la méconnaissance de ce en quoi elles consistent, de leurs modes d'organisation, de leur recrutement et de leur modus operandi. Les récits de prostituées migrantes [Davies, 2009 ; Solana Ruiz et López Riopedre, 2012] suggèrent de ce point de vue que le trafiquant appartenant à un réseau de criminalité internationale n'est pas la cause ultime de leur prostitution, mais un moyen appelé par le jeu de rapports économiques, politiques et sociaux foncièrement genrés. Ce sont ces rapports inégalitaires qui contribuent au premier chef à produire une pauvreté endémique des femmes à laquelle certaines tentent d'échapper en migrant. </br> **Lilian Mathieu**
 
 
 
@@ -48,26 +48,26 @@ social. Les ressorts de ce processus ne sont pas que scientifiques. À l'instar 
 
 # Bibliographie
 
-- **E. Aghatise**, *Réalités et cadre légal de la traite de Nigérianes et d’Européennes de l’Est en Italie*, Alternatives sud, Vol.XII, n°3, pp.135-164, 2005 </br></br>
+- **E. Aghatise**, *Réalités et cadre légal de la traite de Nigérianes et d’Européennes de l’Est en Italie*, Alternatives sud, Vol.XII, n°3, pp.135-164, 2005. </br></br>
 - **Stéphan Altasserre**, *Diversité des mobilités prostitutionnelles bulgares en Europe occidentale. La prostitution, activité économique aux multiples visages*, Migrations Société 2012/5 (N° 143), pp.13-32. </br></br>
 - **Malika Amaouche**, *France. Invisibles et indicibles sollicitations : jeunes hommes pratiquant de nos jours la prostitution dans une gare parisienne*, in Véronique Blanchard et al., "Les jeunes et la sexualité", Autrement, "Mutations" 2010, p.189-199. </br></br>
 - **Elena Ambrosetti** et al., *Femmes, rapports de genre et dynamiques migratoires*, Population 2008/4 (Vol. 63), pp.767-793. </br></br>
-- **Rutvica Andrijasevic**, *La traite des femmes d’Europe de l’Est en Italie*, Revue européenne des migrations internationales [En ligne], vol. 21 n°1 | 2005, mis en ligne le 08 septembre 2008, consulté le 02 octobre 2017. URL : http://remi.revues.org/2354 </br></br>
-- **Ting Chen**, *Femme et mère, entre le besoin et le désir*, Hommes et migrations [En ligne], 1314 | 2016, mis en ligne le 01 avril 2019, consulté le 07 novembre 2016. URL : http:// hommesmigrations.revues.org/3644 </br></br>
+- **Rutvica Andrijasevic**, *La traite des femmes d’Europe de l’Est en Italie*, Revue européenne des migrations internationales [En ligne], vol. 21 n°1 | 2005, mis en ligne le 08 septembre 2008, consulté le 02 octobre 2017. URL: http://remi.revues.org/2354 </br></br>
+- **Ting Chen**, *Femme et mère, entre le besoin et le désir*, Hommes et migrations [En ligne], 1314 | 2016, mis en ligne le 01 avril 2019, consulté le 07 novembre 2016. URL: http://hommesmigrations.revues.org/3644 </br></br>
 - **Elsa Dorlin**, *Les putes sont des hommes comme les autres*, Raisons politiques 2003/3 (n°11), pp. 117-132. </br></br>
-- **Philippe Fargues**, *Un million de migrants arrivés sans visa en Europe en 2015 : qui sont-ils ?*, Population et Sociétés, 532, avril 2016 </br></br>
+- **Philippe Fargues**, *Un million de migrants arrivés sans visa en Europe en 2015 : qui sont-ils ?*, Population et Sociétés, 532, avril 2016. </br></br>
 - **Dominique Giabiconi**. *Filles de l’Est : construction d’une féminité racisée*, Séminaire EFFIGIES du 14 mai 2005, Juin 2005, France, 2005.  </br></br>
 - **Françoise Guillemaut**, *Victimes de traffic ou actrices d'un processus migratoire ? Saisir la voix des femmes migrantes prostituées par la recherche-action (enquête)*, Terrains & travaux 2006/1 (n° 10), pp. 157-176. </br></br>
 - **Françoise Guillemaut**, *Femmes africaines, migration et travail du sexe*, Sociétés 2008/1 (n° 99), pp. 91-106. </br></br>
-- **Françoise Guillemaut**, *Sexe, juju et migrations. Regard anthropologique sur les processus migratoires de femmes africaines en France*, Recherches sociologiques et anthropologiques [En ligne], 39/1 | 2008, mis en ligne le 28 février 2011, consulté le 02 octobre 2017. URL : http://rsa.revues.org/404 </br></br>
+- **Françoise Guillemaut**, *Sexe, juju et migrations. Regard anthropologique sur les processus migratoires de femmes africaines en France*, Recherches sociologiques et anthropologiques [En ligne], 39/1 | 2008, mis en ligne le 28 février 2011, consulté le 02 octobre 2017. URL: http://rsa.revues.org/404 </br></br>
 - **Ronan Hervouet, Claire Schiff** *Des épouses dominées ? Mariages transnationaux, inégalités dans le couple et parcours de vie en France de femmes russes, biélorusses et ukrainiennes*, Recherches familiales 2017/1 (n° 14), pp. 95-106. </br></br>
-- **Florence Lévy**, *Chiffonniers ou prostituées*, Hommes et migrations [En ligne], 1311 | 2015, mis en ligne le 01 juillet 2018, consulté le 24 février 2016. URL : http://hommesmigrations.revues.org/3276 </br></br>
+- **Florence Lévy**, *Chiffonniers ou prostituées*, Hommes et migrations [En ligne], 1311 | 2015, mis en ligne le 01 juillet 2018, consulté le 24 février 2016. URL: http://hommesmigrations.revues.org/3276 </br></br>
 - **Florence Lévy, Marylène Lieber** *La sexualité comme ressource migratoire. Les Chinoises du Nord à Paris*, Revue française de sociologie 2009/4 (Vol. 50), pp. 719-746. </br></br>
 - **Lilian Mathieu**, *Le débat français sur la prostitution*, in Margaret Maruani, "Femmes, genre et sociétés", La Découverte TAP/Hors Série, 2005, pp. 364-371. </br></br>
 - **Lilian Mathieu**, *Sociologie de la prostitution*. La Découverte, "Repères", 2015, 128 pages. </br></br>
 - **Mirjana Morokvasic**, *Chapitre 6 / Le genre est au cœur des migrations*, in Jules Falquet et al., "Le sexe de la mondialisation", Presses de Sciences Po (P.F.N.S.P.), "Académique", 2010, pp.105-120. </br></br>
-- **Olivier Peyroux**, *Délinquants et victimes : la traite des enfants d'Europe de l'Est en France*, 2013, Editions Non Lieu </br></br>
+- **Olivier Peyroux**, *Délinquants et victimes : la traite des enfants d'Europe de l'Est en France*, 2013, Editions Non Lieu. </br></br>
 - **Vanessa Simoni**, *Territoires et enjeux de pouvoir de la traite à des fins d'exploitation sexuelle : le cas de Paris*, Hérodote 2010/1 (n° 136), pp.134-149. </br></br>
-- **Vanessa Simoni**, *I swear an oath - Serments d’allégeances, coercitions et stratégies migratoires chez les femmes nigérianes de Benin City*, in "Prostitution nigériane, entre rêves de migration et réalités de la traite", Hommes et sociétés, Karthala, 2013 </br></br>
-- **Laure Sizaire**, *S’ouvrir au marché matrimonial globalisé : le cas des femmes russophones*, e-Migrinter [En ligne], 14 | 2016, consulté le 02 octobre 2017. URL : http://e-migrinter.revues.org/706 </br></br>
-- **Paola Tabet**, *La grande arnaque l’expropriation de la sexualité des femmes*, in Annie Bidet-Mordrel, "Les rapports sociaux de sexe", Presses Universitaires de France "Actuel Marx Confrontations", 2010, pp. 104-122. </br></br>
+- **Vanessa Simoni**, *I swear an oath - Serments d’allégeances, coercitions et stratégies migratoires chez les femmes nigérianes de Benin City*, in "Prostitution nigériane, entre rêves de migration et réalités de la traite", Hommes et sociétés, Karthala, 2013. </br></br>
+- **Laure Sizaire**, *S’ouvrir au marché matrimonial globalisé : le cas des femmes russophones*, e-Migrinter [En ligne], 14 | 2016, consulté le 02 octobre 2017. URL: http://e-migrinter.revues.org/706 </br></br>
+- **Paola Tabet**, *La grande arnaque l’expropriation de la sexualité des femmes*, in Annie Bidet-Mordrel, "Les rapports sociaux de sexe", Presses Universitaires de France "Actuel Marx Confrontations", 2010, pp.104-122. </br></br>
