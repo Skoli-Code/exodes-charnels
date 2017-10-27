@@ -24,7 +24,7 @@ const Home = () => (
         <Centered><ButtonLink to='introduction'>COMMENCER</ButtonLink></Centered>
       </MediaQuery>
       <p>
-        Une application proposée par
+        Une fiction interactive basée sur des travaux de recherche et proposée par
         <span className='logo-white'/>
         Dans le cadre des rencontres
         <img src={logo_esoep} className="logo_esoep"/>
