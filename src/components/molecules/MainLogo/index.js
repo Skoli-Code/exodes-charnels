@@ -3,7 +3,7 @@ import Link from 'components/atoms/Link';
 import './styles.css';
 
 const MainLogo = () => (
-  <Link className='main-logo' to='https://popsciences.universite-lyon.fr/'>
+  <Link className='main-logo' to='/'>
     <span className="logo"></span>
   </Link>
 );
