@@ -12,7 +12,7 @@ const parcours = [{
   description:`43 ans&nbsp;|
   Arrivée en France le 28&nbsp;octobre 2015 de **Chine**
   `,
-  pane_image: '/images/fang.png',
+  pane_image: '/images/fang.jpg',
   title: 'Fang',
 },
 {
