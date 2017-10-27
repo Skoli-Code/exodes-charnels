@@ -1,5 +1,6 @@
 
 
+</br>
 
 *Ce projet numérique a été réalisé dans le cadre de la 13e édition des rencontres “Et si on en parlait” organisées par la Direction Culture, Sciences et Société de l’Université de Lyon.*
 
@@ -11,6 +12,8 @@
 ## La Situation actuelle
 ### La chute de la prostitution traditionnelle
 Depuis les années 1970, le recours à la sexualité mercantile a significativement diminué. Le sociologue Lilian Mathieu offre plusieurs clés de compréhension de ce phénomène. D’abord la remise en question de la norme du couple hétérosexuel monogame. Ensuite, pour ce qui concerne les clients, le chercheur observe une double évolution de leur sexualité pouvant expliquer cette chute : plus diversifiée d’un côté, moins satisfaisante de l’autre (voir Lilian Mathieu, *Sociologie de la Prostitution*). Enfin dans une certaine mesure, ce phénomène a également pu être accéléré par la crainte qu’a instauré la pandémie de sida au tournant du siècle.
+
+![nuit](/images/nuit.jpg)
 
 Dans le même temps, la filière prostitutionnelle a connu de profonds bouleversements.
 Une prostitution de plus en plus étrangère
@@ -27,9 +30,7 @@ Le début des années 1990 a été marqué par l’arrivée de prostituées de n
 La fin des années 1990 et le début des années 2000 a vu l’émergence d’une prostitution massive d’origine africaine, quelques années plus tard, l’arrivée dans les rues de prostituées chinoises a clôt, jusqu’à présent, les changements dans la structuration de la filière prostitutionnelle.
 
 ##### Répartition par origine régionale des femmes mises en cause pour racolage par la police nationale en 2010 (en %)
-
 ![test](/images/test.svg)
-
 ###### Source : Rapports de l'OCRTEH 2010
 
 
@@ -40,7 +41,7 @@ Pour ces femmes étrangères, prostituées dans les rues française, l’entrée
 ### Attention aux chiffres
 Tous ces chiffres visent à donner une idée, rapide, de l’ampleur du phénomène, de ses principales composantes. Néanmoins, le caractère clandestin, stigmatisé, illégal, précaire et non déclaré de l’activité pose des questions quant à l’origine des chiffres fournis, leur fiabilité, et la réalité qui se cache réellement derrière. Aussi, au cours de cette étude, une distanciation avec l’approche quantitative s’est imposée du fait de l’hétérogénéité des sources et de la difficile appréhension de ce phénomène clandestin par les chiffres. Cette plongée dans l’univers des migrations prostitutionnelles est basé sur un corpus d’articles et d’ouvrages scientifiques (voir bibliographie) dont les approches sont majoritairement qualitatives.
 
-
+![night](/images/night.jpg)
 
 ## Prostitution, traite, proxénétisme… Savoir de quoi l’on parle.
 
@@ -48,9 +49,7 @@ La question de la prostitution fait l’objet d’un vif débat quant à son int
 
 ### L’interprétation de l’Etat
 
-Les institutions policières considèrent les femmes prostituées comme victimes de proxénétisme et de traite des êtres humains.
-
-La loi définie la traite comme
+Les institutions policières considèrent les femmes prostituées comme victimes de proxénétisme et de traite des êtres humains. La loi définie la traite comme
 >le fait, en échange d'une rémunération ou de tout autre avantage ou d'une promesse de rémunération ou d'avantage, de recruter une personne, de la transporter, de la transférer, de l'héberger ou de l'accueillir, pour la mettre à sa disposition ou à la disposition d'un tiers [...] afin soit de permettre la commission contre cette personne des infractions de proxénétisme, d'agression ou d'atteintes sexuelles, d'exploitation de la mendicité, de conditions de travail ou d'hébergement contraires à sa dignité, soit de contraindre cette personne à commettre tout crime ou délit.
 
 Le proxénétisme désigne lui le soutien ou la contrainte à la prostitution d’autrui. Soit toute facilitation, hébergement ou protection de la prostitution. Cette action n’est pas nécessairement intéressée. Toute pression sur une personne en vue de l’amener à se prostituer tombe aussi sous le coup de la loi contre le proxénétisme.
@@ -64,6 +63,8 @@ Les auteurs mobilisés dans le corpus d’étude (essentiellement qualitatives) 
 
 >Les écarts entre ce qui se dit des modalités de déplacement (la traite) et de la sorcellerie (comme une forme d’assujettissement total) et la réalité de la migration, dont les modalités sont diverses, nous conduisent à nous interroger sur les intérêts défendus par les gouvernements et les experts travaillant à leur service. Comme Gail Pheterson le suggère, la notion de traite des êtres humains peut alors être lue comme une catégorie d’analyse construite à des fins de lutte contre la mobilité des femmes et contre l’immigration vers les pays riches en général, ainsi que comme un outil justifiant les dispositifs de contrôle des corps, des frontières (géographiques et sociales) et des normes sexuelles et de genre (Pheterson, 2001).</br>
 **Françoise Guillemaut**
+
+![paris](/images/paris.jpg)
 
 >Ajoutons que dans la majorité des cas, les femmes elles-mêmes ne s’identifient pas comme « prostituées ». Leur activité est un moyen le plus souvent temporaire pour gagner leur vie et ne pas être dépendante d’une famille, d’un mari ou de l’État. Elles ne se sentent pas « migrantes », mais Albanaise, Équatorienne, Ghanéenne, etc. </br>
 L’un des objectifs majeurs sous-tendu par l’ensemble de ces textes est en réalité l’empêchement de toute forme d’immigration par la répression, ainsi que le maintien des femmes dans leurs familles et dans leur pays. </br>

@@ -12,6 +12,13 @@
   display: block;
 }
 
+.content-container p > svg {
+  margin: auto;
+  max-height: 35vh !important;
+  max-width: 100%;
+  display: block;
+}
+
 @media screen and (max-width: 720px){
   .content-container {
     width: auto;
