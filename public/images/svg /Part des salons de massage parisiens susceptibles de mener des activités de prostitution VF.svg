@@ -1,1 +1,26 @@
-<svg id="Calque_1" width="300" height="300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 305.15 320"><defs><style>.cls-1{fill:#ed2939;}.cls-2{fill:#988f86;}.cls-3{isolation:isolate;font-size:10px;fill:#424242;font-family:ArialMT, Arial;}.cls-4{font-size:8px;font-family:OpenSans, Open Sans;}</style></defs><title>Part des salons de massage parisiens susceptibles de mener des activités de prostitution VF</title><path class="cls-1" d="M100,5A95,95,0,1,1,89.2,194.38l4.55-39.74A55,55,0,1,0,100,45Z" transform="translate(-4.99 -5)"/><path class="cls-2" d="M89.2,194.38A95,95,0,0,1,100,5V45a55,55,0,0,0-6.25,109.64Z" transform="translate(-4.99 -5)"/><text class="cls-3" transform="translate(161.54 102.77)">300</text><text class="cls-3" transform="translate(11.79 94.23)">279</text><rect class="cls-1" x="198.01" y="3.29" width="14.14" height="14.14"/><text class="cls-4" transform="translate(217.29 9.47)">Salons de massages <tspan x="0" y="9.6">parisiens susceptibles </tspan><tspan x="0" y="19.2">de mener des activités </tspan><tspan x="0" y="28.8">de prostitution</tspan></text><rect class="cls-2" x="198.01" y="47.29" width="14.14" height="14.14"/><text class="cls-4" transform="translate(217.29 53.47)">Autres salons de <tspan x="0" y="9.6">massages parisiens</tspan></text></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#ED2939;}
+	.st1{fill:#988F86;}
+	.st2{enable-background:new    ;}
+	.st3{fill:#424242;}
+</style>
+<title>Part des salons de massage parisiens susceptibles de mener des activités de prostitution VF</title>
+<path class="st0" d="M-273,0c49.2,0,89.1,39.8,89.1,89s-39.8,89.1-89,89.1c-3.4,0-6.8-0.2-10.2-0.6l4.3-37.3
+	c28.3,3.3,53.9-17,57.1-45.3c3.3-28.3-17-53.9-45.3-57.1c-2-0.2-3.9-0.3-5.9-0.3V0z"/>
+<path class="st1" d="M-283.1,177.5c-48.9-5.6-83.9-49.8-78.3-98.6C-356.3,34-318.2,0-273,0v37.5c-28.5,0-51.5,23.1-51.5,51.6
+	c0,26.2,19.7,48.2,45.7,51.2L-283.1,177.5z"/>
+<text transform="matrix(1 0 0 1 -210.5952 88.3408)" class="st3" style="font-family:'Roboto-Regular'; font-size:9.375px;">300</text>
+<text transform="matrix(1 0 0 1 -350.9858 88.3408)" class="st3" style="font-family:'Roboto-Regular'; font-size:9.375px;">279</text>
+<rect x="-176.4" y="3.1" class="st0" width="13.3" height="13.3"/>
+<text transform="matrix(1 0 0 1 -158.3301 8.8779)" style="font-family:'Roboto-Regular'; font-size:7.5px;">Salons de massages </text>
+<text transform="matrix(1 0 0 1 -158.3301 17.8779)" style="font-family:'Roboto-Regular'; font-size:7.5px;">parisiens susceptibles </text>
+<text transform="matrix(1 0 0 1 -158.3301 26.8779)" style="font-family:'Roboto-Regular'; font-size:7.5px;">de mener des activités </text>
+<text transform="matrix(1 0 0 1 -158.3301 35.8779)" style="font-family:'Roboto-Regular'; font-size:7.5px;">de prostitution</text>
+<rect x="-176.4" y="44.3" class="st1" width="13.3" height="13.3"/>
+<text transform="matrix(1 0 0 1 -158.3301 50.1279)" style="font-family:'Roboto-Regular'; font-size:7.5px;">Autres salons de </text>
+<text transform="matrix(1 0 0 1 -158.3301 59.1279)" style="font-family:'Roboto-Regular'; font-size:7.5px;">massages parisiens</text>
+</svg>
