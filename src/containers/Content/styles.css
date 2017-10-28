@@ -19,6 +19,19 @@
   display: block;
 }
 
+.content-container a {
+  color: rgb(237,41,57);
+}
+
+
+
+.content-container h2 {
+  color: rgb(237,41,57);
+}
+.content-container h1 {
+  color: rgb(237,41,57);
+}
+
 @media screen and (max-width: 720px){
   .content-container {
     width: auto;
