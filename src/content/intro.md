@@ -2,7 +2,7 @@
 
 </br>
 
-*Ce projet numérique a été réalisé dans le cadre de la 13e édition des rencontres “Et si on en parlait” organisées par la Direction Culture, Sciences et Société de l’Université de Lyon.*
+*Ce projet numérique a été réalisé dans le cadre de la 13e édition des rencontres “`Et si on en parlait`” organisées par la Direction Culture, Sciences et Société de l’Université de Lyon.*
 
 **A travers les parcours, fictifs, de trois prostituées originaires de Chine, du Nigéria et de Bulgarie, tentons de comprendre les logiques migratoires et prostitutionnelles. Ces parcours ont été élaborés à partir de travaux de recherche universitaire.**
 
@@ -11,13 +11,13 @@
 
 ## La Situation actuelle
 ### La chute de la prostitution traditionnelle
-Depuis les années 1970, le recours à la sexualité mercantile a significativement diminué. Le sociologue Lilian Mathieu offre plusieurs clés de compréhension de ce phénomène. D’abord la remise en question de la norme du couple hétérosexuel monogame. Ensuite, pour ce qui concerne les clients, le chercheur observe une double évolution de leur sexualité pouvant expliquer cette chute : plus diversifiée d’un côté, moins satisfaisante de l’autre (voir Lilian Mathieu, *Sociologie de la Prostitution*). Enfin dans une certaine mesure, ce phénomène a également pu être accéléré par la crainte qu’a instauré la pandémie de sida au tournant du siècle.
+Depuis les années 1970, le recours à la sexualité mercantile a significativement diminué. Le sociologue `Lilian Mathieu` offre plusieurs clés de compréhension de ce phénomène. D’abord la remise en question de la norme du couple hétérosexuel monogame. Ensuite, pour ce qui concerne les clients, le chercheur observe une double évolution de leur sexualité pouvant expliquer cette chute : plus diversifiée d’un côté, moins satisfaisante de l’autre (voir `Lilian Mathieu`, *Sociologie de la Prostitution*). Enfin dans une certaine mesure, ce phénomène a également pu être accéléré par la crainte qu’a instauré la pandémie de sida au tournant du siècle.
 
 ![nuit](/images/nuit.jpg)
 
 Dans le même temps, la filière prostitutionnelle a connu de profonds bouleversements.
 Une prostitution de plus en plus étrangère
-L’office central pour la répression de la traite des êtres humains (OCRTEH), seul organisme public procédant à des évaluations quantitatives du phénomène de la prostitution estimait en 2010 le nombre de personnes prostituées en France entre 20 000 et 40 000. Une estimation que n’ont pas contesté les associations travaillant auprès des personnes prostituées (le Strass -Syndicat du travail sexuel- mis à part, qui estime ce chiffre vingt fois supérieur).
+L’office central pour la répression de la traite des êtres humains (`OCRTEH`), seul organisme public procédant à des évaluations quantitatives du phénomène de la prostitution estimait en 2010 le nombre de personnes prostituées en France entre 20 000 et 40 000. Une estimation que n’ont pas contesté les associations travaillant auprès des personnes prostituées (le `Strass` -Syndicat du travail sexuel- mis à part, qui estime ce chiffre vingt fois supérieur).
 
 Cependant, si le nombre de personnes prostituées évolue peu, la structure de cette population a radicalement changé au début du 21e siècle. Très majoritairement françaises jusqu’à la fin des années 1990, les femmes prostituées dans la rue sont désormais majoritairement de nationalités étrangères.
 
@@ -54,7 +54,7 @@ Les institutions policières considèrent les femmes prostituées comme victimes
 
 Le proxénétisme désigne lui le soutien ou la contrainte à la prostitution d’autrui. Soit toute facilitation, hébergement ou protection de la prostitution. Cette action n’est pas nécessairement intéressée. Toute pression sur une personne en vue de l’amener à se prostituer tombe aussi sous le coup de la loi contre le proxénétisme.
 
-Cette assimilation de la prostitution à la traite, est contestée par certaines études universitaires, ainsi Stéphan Altasserre critique
+Cette assimilation de la prostitution à la traite, est contestée par certaines études universitaires, ainsi `Stéphan Altasserre` critique
 > cette idéologie les conduisant à considérer que, par essence, la prostitution n’est que le système d’exploitation des femmes par les hommes, alors qu’il s’agit aussi d’échanges économico-sexuels et de rapports sociaux de sexe.
 
 ### L’interprétation sociologique
