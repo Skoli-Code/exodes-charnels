@@ -3,6 +3,7 @@ import FacebookProvider, { Share } from 'react-facebook';
 import {
   FACEBOOK_APP_ID,
   FACEBOOK_SDK_VERSION,
+  SHARE_URL,
   getTwitterShareHREF,
 } from 'constants/social';
 
@@ -32,7 +33,7 @@ const SocialSharing = () => (
       appId={FACEBOOK_APP_ID}
       version={FACEBOOK_SDK_VERSION}
     >
-      <Share>
+      <Share href={SHARE_URL}>
         <FacebookIcon width={25} height={25} />
       </Share>
     </FacebookProvider>

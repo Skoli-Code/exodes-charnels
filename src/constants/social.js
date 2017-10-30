@@ -39,3 +39,5 @@ export const getTwitterShareHREF = () => {
 
 export const FACEBOOK_APP_ID = '1666596323384667';
 export const FACEBOOK_SDK_VERSION = 'v2.10';
+
+export const SHARE_URL = 'https://exodes.universite-lyon.fr/'; 
