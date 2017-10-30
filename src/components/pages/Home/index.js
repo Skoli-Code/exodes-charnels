@@ -2,6 +2,7 @@ import React from 'react';
 import ButtonLink from 'components/molecules/ButtonLink';
 import Centered from 'components/atoms/Centered';
 import MediaQuery from 'react-responsive';
+import Link from 'components/atoms/Link';
 import MEDIA_QUERIES from 'constants/media-queries';
 
 import './styles.css';
@@ -25,9 +26,13 @@ const Home = () => (
       </MediaQuery>
       <p>
         Une fiction interactive basée sur des travaux de recherche et proposée par
-        <span className='logo-white'/>
+        <Link to ="https://popsciences.universite-lyon.fr/">
+          <span className="logo-white"></span>
+        </Link>
         Dans le cadre des rencontres
+        <Link to ="http://etsionenparlait.hypotheses.org/">
         <img src={logo_esoep} className="logo_esoep"/>
+        </Link>
       </p>
     </div>
     <MediaQuery query={`${MEDIA_QUERIES.desktop} and ${MEDIA_QUERIES.normalHeight}`}>
