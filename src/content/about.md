@@ -6,7 +6,7 @@ Un mois et demi durant [du 18 octobre au 28 novembre 2017] et au travers de tabl
 
 Cette édition des rencontres "Et si on en parlait" s’est tenue pour sortir du tourment médiatique, prendre le temps de l'enquête, de l'analyse et du débat. Les recherches en histoire, anthropologie, sociologie, sciences politiques, environnement, etc. offrant une approche plus large, contextualisée et au-delà des controverses de ces phénomènes.
 
-Ainsi, le 2 novembre 2017 avons-nous organisé une soirée de réflexion et de débat autour de la prostitution à l’épreuve des migrations au Périscope |lien] (Lyon).
+Ainsi, le 2 novembre 2017 avons-nous organisé une soirée de réflexion et de débat autour de la prostitution à l’épreuve des migrations au [Périscope](http://www.periscope-lyon.com/) (Lyon).
 Les espaces communs entre migration et l'industrie sexuelle sont complexes. Afin de ne pas réduire les travailleurs migrants du sexe à d'uniques victimes d'un "trafic", il s’est agit de comprendre les expériences de ces personnes qui vendent corps et affection pour vivre ou survivre : Les raisons du départ, les chemins empruntés, leurs conditions de vie à destination et le rapport au pays d'origine, par :  
 
 - **Une Projection // Travel**
