@@ -11,7 +11,7 @@ const TWEET_VIA_ACCOUNT = '';
 const TWEET_PARAMS = {
   via: TWEET_VIA_ACCOUNT,
   text: TWEET_TEXT,
-  url: 'http://exodes-charnels.surge.sh/',
+  url: 'https://exodes.universite-lyon.fr',
   // Mettre à jour avec l'url définitive : http://exodes_charnels.universite-lyon.fr
   hashtags: TWEET_HASHTAGS,
 };
