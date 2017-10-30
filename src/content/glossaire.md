@@ -42,7 +42,7 @@ Le proxénétisme de contrainte englobe toutes les situations de pression sur un
 [*] Définition issue de Lilian Mathieu, *Sociologie de la prostitution*. La Découverte, "Repères", 2015.
 
 
-## Raccolage
+## Racolage
 La pénalisation du racolage [Vernier, 2010] découle de l'interdiction des maisons closes, qui a contraint leurs anciennes pensionnaires à afficher dans la rue une activité autrefois recluse. C'est pourquoi cette infraction a fréquemment été utilisée pour contraindre à la discrétion une présence de prostitué-e-s source de nuisance pour le voisinage. Le code pénal distinguait jusqu'en 1994 les formes actives (supposant que le ou la prostitué-e aborde directement un potentiel client) et passives (attitude du ou de la prostitué-e qui dévisage les passants avec insistance) de racolage, mais l'usage arbitraire du second par la police avait soulevé de nombreuses protestations. C'est précisément afin de redonner à la police les moyens d'évincer les prostitué-e-s de l'espace public que le racolage passif a été réintroduit en 2003 dans le cadre de la LSI, en punissant de 3&nbsp;750 euros d'amende et de deux mois de prison "*le fait par tout moyen, y compris par une attitude passive, de procéder publiquement au racolage d'autrui en vue de l'inciter à des relations sexuelles en échange d'une rémunération ou d'une promesse de rémunération*".
 
 [*] Définition issue de Lilian Mathieu, *Sociologie de la prostitution*. La Découverte, "Repères", 2015.
