@@ -10,12 +10,12 @@ import ParcoursDropdown from './ParcoursDropdown';
 
 
 const NavigationTabs = () => [
-  <IntroductionTab />,
-  <ParcoursTab />,
-  <Route path='/parcours/:slug' component={ParcoursDropdown} />,
-  <ConclusionTab />,
-  <GlossaireTab />,
-  <AboutTab />
+  <IntroductionTab key='intro-tab' />,
+  <ParcoursTab key='parcours-tab'/>,
+  <Route key='parcours-choice-tab' path='/parcours/:slug' component={ParcoursDropdown} />,
+  <ConclusionTab key='conclusion-tab'/>,
+  <GlossaireTab key='glossary-tab'/>,
+  <AboutTab key='about-tab'/>
 ];
 
 export default NavigationTabs;
