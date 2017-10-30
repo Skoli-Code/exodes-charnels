@@ -17,6 +17,7 @@
   bottom: 0;
   display: flex;
   align-items: center;
+  z-index: 1;
 }
 
 .button-holder a {
@@ -58,6 +59,7 @@
   left: 0;
   right: 0;
   font-size: 1.2em;
+  z-index: 2;
 }
 .home-text .logo-white {
   display: block;

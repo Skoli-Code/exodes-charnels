@@ -34,12 +34,12 @@ const Home = () => (
         <img src={logo_esoep} className="logo_esoep"/>
         </Link>
       </p>
+      <MediaQuery query={`${MEDIA_QUERIES.desktop} and ${MEDIA_QUERIES.normalHeight}`}>
+        <div className='button-holder'>
+          <ButtonLink to='introduction'>COMMENCER</ButtonLink>
+        </div>
+      </MediaQuery>
     </div>
-    <MediaQuery query={`${MEDIA_QUERIES.desktop} and ${MEDIA_QUERIES.normalHeight}`}>
-      <div className='button-holder'>
-        <ButtonLink to='introduction'>COMMENCER</ButtonLink>
-      </div>
-    </MediaQuery>
   </div>
 );
 
