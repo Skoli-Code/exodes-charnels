@@ -3,12 +3,16 @@ import PropTypes from 'prop-types';
 import Markdown from 'react-markdown';
 // custom markdown renderer
 import Underline from 'components/atoms/Underline';
+import GenericLink from 'components/atoms/Link';
 import BlockQuote from 'components/atoms/BlockQuote';
 
 import './styles.css';
 
+const Link = ({ href, children }) => <GenericLink to={href}>{ children }</GenericLink>
+
 const renderers = {
   BlockQuote,
+  Link,
   Code: Underline,
 };
 
