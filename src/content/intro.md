@@ -2,14 +2,14 @@
 
 </br>
 
-*Ce projet numérique a été réalisé dans le cadre de la 13e édition des rencontres “`Et si on en parlait`” organisées par la Direction Culture, Sciences et Société de l’Université de Lyon.*
+*Ce projet numérique a été réalisé dans le cadre de la 13e édition des rencontres "`Et si on en parlait`" organisées par la Direction Culture, Sciences et Société de l’Université de Lyon.*
 
 **A travers les parcours, fictifs, de trois prostituées originaires de Chine, du Nigéria et de Bulgarie, tentons de comprendre les logiques migratoires et prostitutionnelles. Ces parcours ont été élaborés à partir de travaux de recherche universitaire.**
 
 ---
 ---
 
-## La Situation actuelle
+## La situation actuelle
 ### La chute de la prostitution traditionnelle
 Depuis les années 1970, le recours à la sexualité mercantile a significativement diminué. Le sociologue `Lilian Mathieu` offre plusieurs clés de compréhension de ce phénomène. D’abord la remise en question de la norme du couple hétérosexuel monogame. Ensuite, pour ce qui concerne les clients, le chercheur observe une double évolution de leur sexualité pouvant expliquer cette chute : plus diversifiée d’un côté, moins satisfaisante de l’autre (voir `Lilian Mathieu`, *Sociologie de la Prostitution*). Enfin dans une certaine mesure, ce phénomène a également pu être accéléré par la crainte qu’a instauré la pandémie de sida au tournant du siècle.
 
@@ -66,7 +66,7 @@ Les auteurs mobilisés dans le corpus d’étude (essentiellement qualitatives) 
 
 ![paris](/images/paris.jpg)
 
->Ajoutons que dans la majorité des cas, les femmes elles-mêmes ne s’identifient pas comme « prostituées ». Leur activité est un moyen le plus souvent temporaire pour gagner leur vie et ne pas être dépendante d’une famille, d’un mari ou de l’État. Elles ne se sentent pas « migrantes », mais Albanaise, Équatorienne, Ghanéenne, etc. </br>
+>Ajoutons que dans la majorité des cas, les femmes elles-mêmes ne s’identifient pas comme "prostituées". Leur activité est un moyen le plus souvent temporaire pour gagner leur vie et ne pas être dépendante d’une famille, d’un mari ou de l’État. Elles ne se sentent pas "migrantes", mais Albanaise, Équatorienne, Ghanéenne, etc. </br>
 L’un des objectifs majeurs sous-tendu par l’ensemble de ces textes est en réalité l’empêchement de toute forme d’immigration par la répression, ainsi que le maintien des femmes dans leurs familles et dans leur pays. </br>
 **Françoise Guillemaut**
 
