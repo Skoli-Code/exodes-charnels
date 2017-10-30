@@ -4,7 +4,7 @@ import './styles.css';
 
 const Underline = ({ children, ...props }) => {
   return (
-  <span class="underline">{ children }</span>
+  <span className="underline">{ children }</span>
 );
 }
 
