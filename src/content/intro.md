@@ -2,7 +2,7 @@
 
 </br>
 
-*Ce projet numérique a été réalisé dans le cadre de la 13e édition des rencontres “`Et si on en parlait`” organisées par la Direction Culture, Sciences et Société de l’Université de Lyon.*
+*Ce projet numérique a été réalisé dans le cadre de la 13e édition des rencontres "`Et si on en parlait`" organisées par la Direction Culture, Sciences et Société de l’Université de Lyon.*
 
 **A travers les parcours, fictifs, de trois prostituées originaires de Chine, du Nigéria et de Bulgarie, tentons de comprendre les logiques migratoires et prostitutionnelles. Ces parcours ont été élaborés à partir de travaux de recherche universitaire.**
 
@@ -66,7 +66,7 @@ Les auteurs mobilisés dans le corpus d’étude (essentiellement qualitatives) 
 
 ![paris](/images/paris.jpg)
 
->Ajoutons que dans la majorité des cas, les femmes elles-mêmes ne s’identifient pas comme « prostituées ». Leur activité est un moyen le plus souvent temporaire pour gagner leur vie et ne pas être dépendante d’une famille, d’un mari ou de l’État. Elles ne se sentent pas « migrantes », mais Albanaise, Équatorienne, Ghanéenne, etc. </br>
+>Ajoutons que dans la majorité des cas, les femmes elles-mêmes ne s’identifient pas comme "prostituées". Leur activité est un moyen le plus souvent temporaire pour gagner leur vie et ne pas être dépendante d’une famille, d’un mari ou de l’État. Elles ne se sentent pas "migrantes", mais Albanaise, Équatorienne, Ghanéenne, etc. </br>
 L’un des objectifs majeurs sous-tendu par l’ensemble de ces textes est en réalité l’empêchement de toute forme d’immigration par la répression, ainsi que le maintien des femmes dans leurs familles et dans leur pays. </br>
 **Françoise Guillemaut**
 
