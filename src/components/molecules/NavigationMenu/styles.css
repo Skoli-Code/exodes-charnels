@@ -15,8 +15,10 @@
   width: 100%;
 }
 
-.menu-icon {
+.menu .menu-icon {
   z-index: 10;
+  position: absolute;
+  right: 0;
 }
 .menu--opened .menu-holder {
   transform: translate(0, 0);
