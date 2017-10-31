@@ -1,5 +1,5 @@
 # À propos
-Ce projet numérique a été réalisé dans le cadre de la 13e édition des rencontres "[Et si on en parlait]((http://etsionenparlait.hypotheses.org))" organisées par la Direction Culture, Sciences et Société de l’Université de Lyon.
+Ce projet numérique a été réalisé dans le cadre de la 13e édition des rencontres [Et si on en parlait](http://www.etsionenparlait.hypotheses.org) organisées par la Direction Culture, Sciences et Société de l’Université de Lyon.
 
 Un mois et demi durant [du 18 octobre au 28 novembre 2017] et au travers de tables rondes, concerts, débats, balades en ville, ateliers, projections, conférences, spectacles, expositions,etc. nous avons ouvert des espaces de rencontre et de dialogue autour des Migration(s). Ces Hommes et cultures en mouvement.
 
@@ -12,23 +12,17 @@ Les espaces communs entre migration et l'industrie sexuelle sont complexes. Afin
 - **Une Projection // Travel**
 Ethnofiction écrite et interprétée par Nicola Mai et 8 femmes nigérianes ayant des expériences de migration, de travail sexuel et d′exploitation. 	
 
-- **Une Table-ronde // La prostitution et les rapports sociaux au sexe à l'épreuve des phénomènes migratoires contemporains**
+- **Une Table-ronde // La prostitution et les rapports sociaux au sexe à l'épreuve des phénomènes migratoires contemporains**.</br>
 Animé par Samuel Belaud (Université de Lyon) avec :
 
-  - Nicola Mai : sociologue et réalisateur, professeur de Sociologie et Etudes migratoires à l′Université Métropolitaine de Londres.
-  - Lilian Mathieu : spécialiste de l′étude de la prostitution. Directeur de recherche CNRS (Centre Max Weber - ENS de Lyon). Enseignant à l′Institut d′études politiques de Paris et à l′Université Lumière Lyon 2.  
-  - Laure Sizaire : spécialiste des rapports sociaux de sexe et des nouvelles mobilités. Doctorante au CNRS (Centre Max Weber - ENS de Lyon). Enseignante au Collège Universitaire français de Moscou.   
-
-
-[Vidéo]
-
-
-
+  - `Nicola Mai` : sociologue et réalisateur, professeur de Sociologie et Etudes migratoires à l′Université Métropolitaine de Londres.
+  - `Lilian Mathieu` : spécialiste de l′étude de la prostitution. Directeur de recherche CNRS (Centre Max Weber - ENS de Lyon). Enseignant à l′Institut d′études politiques de Paris et à l′Université Lumière Lyon 2.  
+  - `Laure Sizaire` : spécialiste des rapports sociaux de sexe et des nouvelles mobilités. Doctorante au CNRS (Centre Max Weber - ENS de Lyon). Enseignante au Collège Universitaire français de Moscou.   
 
 
 # Mentions légales
 
-**éditeur :** </br>
+**Éditeur :** </br>
 Université de Lyon </br>
 92, rue Pasteur – CS30122</br>
 69361 Lyon Cedex 07</br>
@@ -90,4 +84,4 @@ France</br>
 
 
 **Graphiques et charts**</br>
-Réalisés par l'agence [Skoli](www.skoli.fr) pour l'Université de Lyon.
+Réalisés par l'agence [Skoli](http://www.skoli.fr) pour l'Université de Lyon.

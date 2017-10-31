@@ -4,7 +4,7 @@
 
 *Ce projet numérique a été réalisé dans le cadre de la 13e édition des rencontres "`Et si on en parlait`" organisées par la Direction Culture, Sciences et Société de l’Université de Lyon.*
 
-**A travers les parcours, fictifs, de trois prostituées originaires de Chine, du Nigéria et de Bulgarie, tentons de comprendre les logiques migratoires et prostitutionnelles. Ces parcours ont été élaborés à partir de travaux de recherche universitaire.**
+A travers les `parcours, fictifs`, de trois prostituées originaires de Chine, du Nigéria et de Bulgarie, tentons de comprendre les logiques migratoires et prostitutionnelles. `Ces parcours ont été élaborés à partir de travaux de recherche universitaire`.
 
 ---
 ---

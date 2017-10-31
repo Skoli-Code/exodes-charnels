@@ -1,1 +1,45 @@
-<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 306.14 190.01"><defs><style>.cls-1{fill:#0098db;}.cls-2{fill:#ed2939;}.cls-3{fill:#32d17e;}.cls-4{fill:#ff6319;}.cls-5{fill:#988f86;}.cls-6{isolation:isolate;font-size:10px;fill:#424242;font-family:'Roboto', sans-serif;}.cls-7{font-size:12px;font-family:'Roboto', sans-serif}.cls-8{fill:none;}</style></defs><title>test</title><path class="cls-1" d="M100,5a95,95,0,0,1,55.84,171.86L132.33,144.5A55,55,0,0,0,100,45Z" transform="translate(-5 -5)"/><path class="cls-2" d="M155.84,176.86A95,95,0,0,1,6.68,82.2L46,89.69a55,55,0,0,0,86.35,54.8Z" transform="translate(-5 -5)"/><path class="cls-3" d="M6.68,82.2A95,95,0,0,1,46.6,21.43L69.09,54.51A55,55,0,0,0,46,89.69Z" transform="translate(-5 -5)"/><path class="cls-4" d="M79.28,7.29A95,95,0,0,1,100,5V45a55,55,0,0,0-12,1.32Z" transform="translate(-5 -5)"/><path class="cls-5" d="M46.6,21.43A95,95,0,0,1,79.28,7.29l8.73,39a55,55,0,0,0-18.92,8.19Z" transform="translate(-5 -5)"/><text class="cls-6" transform="translate(160.77 75.32)">40</text><text class="cls-6" transform="translate(49.25 161.82)">38</text><text class="cls-6" transform="translate(22.58 57.32)">12,5</text><text class="cls-6" transform="translate(79.82 23.95)">3,5</text><text class="cls-6" transform="translate(62.43 29.67)">6</text><rect class="cls-2" x="199" y="2.29" width="14.14" height="14.14"/><text class="cls-7" transform="translate(218.28 12.23)">Afrique</text><rect class="cls-4" x="199" y="21.29" width="14.14" height="14.14"/><rect class="cls-8" x="216.28" y="22.39" width="87.86" height="12.45"/><text class="cls-7" transform="translate(217.67 30.54)">Amérique centrale <tspan x="0" y="10.8">et Amérique du sud</tspan></text><rect class="cls-3" x="199" y="46.29" width="14.14" height="14.14"/><text class="cls-7" transform="translate(218.28 56.23)">Asie</text><rect class="cls-1" x="199" y="65.29" width="14.14" height="14.14"/><text class="cls-7" transform="translate(218.28 75.23)">Europe de l’Est et <tspan x="0" y="10.8">des Balkans</tspan></text><rect class="cls-5" x="199" y="90.29" width="14.14" height="14.14"/><text class="cls-7" transform="translate(218.28 100.23)">Autre</text></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 306.1 190" style="enable-background:new 0 0 306.1 190;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0098DB;}
+	.st1{fill:#ED2939;}
+	.st2{fill:#32D17E;}
+	.st3{fill:#FF6319;}
+	.st4{fill:#988F86;}
+	.st5{fill:#424242;}
+	.st6{font-family:'Roboto-Regular';}
+	.st7{font-size:8.9095px;}
+	.st8{font-size:10.6915px;}
+	.st9{fill:none;}
+</style>
+<title>test</title>
+<g>
+	<path class="st0" d="M101.9,10.4c46.7,0,84.6,37.9,84.6,84.6c0,27.1-13,52.6-34.9,68.5l-20.9-28.8c21.9-15.9,26.8-46.5,10.8-68.4
+		c-9.2-12.7-24-20.2-39.7-20.2L101.9,10.4L101.9,10.4z"/>
+	<path class="st1" d="M151.6,163.5c-37.8,27.5-90.7,19.1-118.2-18.7c-13.7-18.9-19-42.7-14.7-65.6l35,6.7
+		c-5.1,26.6,12.4,52.2,39,57.3c13.3,2.5,27-0.5,38-8.5L151.6,163.5z"/>
+	<path class="st2" d="M18.7,79.1C22.9,57,35.7,37.6,54.3,25l20,29.5c-10.7,7.3-18.1,18.6-20.6,31.3L18.7,79.1z"/>
+	<path class="st3" d="M83.4,12.4c6.1-1.4,12.3-2,18.5-2V46c-3.6,0-7.2,0.4-10.7,1.2L83.4,12.4z"/>
+	<path class="st4" d="M54.3,25c8.8-6,18.7-10.3,29.1-12.6l7.8,34.7c-6,1.3-11.7,3.8-16.9,7.3L54.3,25z"/>
+	<text transform="matrix(1 0 0 1 160.4824 77.4663)" class="st5 st6 st7">40</text>
+	<text transform="matrix(1 0 0 1 61.1235 154.5342)" class="st5 st6 st7">38</text>
+	<text transform="matrix(1 0 0 1 37.3618 61.4292)" class="st5 st6 st7">12,5</text>
+	<text transform="matrix(1 0 0 1 88.3604 31.6982)" class="st5 st6 st7">3,5</text>
+	<text transform="matrix(1 0 0 1 72.8662 36.7944)" class="st5 st6 st7">6</text>
+	<rect x="190.1" y="13.3" class="st1" width="12.6" height="12.6"/>
+	<text transform="matrix(1 0 0 1 207.2666 22.147)" class="st6 st8">Afrique</text>
+	<rect x="190.1" y="30.2" class="st3" width="12.6" height="12.6"/>
+	<rect x="205.5" y="31.2" class="st9" width="78.3" height="11.1"/>
+	<text transform="matrix(1 0 0 1 206.7236 38.4604)" class="st6 st8">Amérique centrale </text>
+	<text transform="matrix(1 0 0 1 206.7236 48.083)" class="st6 st8">et Amérique du sud</text>
+	<rect x="190.1" y="52.5" class="st2" width="12.6" height="12.6"/>
+	<text transform="matrix(1 0 0 1 207.2666 61.3491)" class="st6 st8">Asie</text>
+	<rect x="190.1" y="69.4" class="st0" width="12.6" height="12.6"/>
+	<text transform="matrix(1 0 0 1 207.2666 78.2773)" class="st6 st8">Europe de l’Est et </text>
+	<text transform="matrix(1 0 0 1 207.2666 87.8994)" class="st6 st8">des Balkans</text>
+	<rect x="190.1" y="91.7" class="st4" width="12.6" height="12.6"/>
+	<text transform="matrix(1 0 0 1 207.2666 100.5508)" class="st6 st8">Autre</text>
+</g>
+</svg>
