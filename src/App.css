@@ -13,3 +13,6 @@ html, body {
 .cover .button {
   color: white;
 }
+.centered .button {
+  margin-bottom: 100px;
+}
