@@ -1,5 +1,5 @@
 # À propos
-Ce projet numérique a été réalisé dans le cadre de la 13e édition des rencontres "[Et si on en parlait]((http://etsionenparlait.hypotheses.org))" organisées par la Direction Culture, Sciences et Société de l’Université de Lyon.
+Ce projet numérique a été réalisé dans le cadre de la 13e édition des rencontres [Et si on en parlait](http://www.etsionenparlait.hypotheses.org) organisées par la Direction Culture, Sciences et Société de l’Université de Lyon.
 
 Un mois et demi durant [du 18 octobre au 28 novembre 2017] et au travers de tables rondes, concerts, débats, balades en ville, ateliers, projections, conférences, spectacles, expositions,etc. nous avons ouvert des espaces de rencontre et de dialogue autour des Migration(s). Ces Hommes et cultures en mouvement.
 
@@ -84,4 +84,4 @@ France</br>
 
 
 **Graphiques et charts**</br>
-Réalisés par l'agence [Skoli](www.skoli.fr) pour l'Université de Lyon.
+Réalisés par l'agence [Skoli](http://www.skoli.fr) pour l'Université de Lyon.
