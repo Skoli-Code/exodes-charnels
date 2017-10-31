@@ -53,6 +53,11 @@ La double condition de migrante et de prostituée est donc une double "punition"
 `[4]` : `Lilian Mathieu`, op cit. Sociologie de la prostitution. La Découverte, "Repères", 2015, 128 pages.</br></br>
 `[5]` : `Françoise Guillemaut et Luzenir Caxeita`, Femmes et migrations en Europe, 2007, Cabiria Editions</br></br>
 `[6]` : Témoignage d’Aurore (nigériane), récolté par `Françoise Guillemaut`  dans Femmes africaines, migration et travail du sexe, 2008, "Sociétés", pp. 91-106.</br>
+</br>
+</br>
+
+---
+
 
 
 # Bibliographie

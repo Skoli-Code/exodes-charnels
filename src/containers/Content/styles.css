@@ -3,6 +3,8 @@
   margin: auto;
   padding: 0 15px;
   padding-bottom: 15px;
+  font-size: 1.3em;
+  font-weight: 300;
 }
 
 .content-container p > img {
@@ -27,6 +29,7 @@
 
 .content-container h2 {
   color: rgb(237,41,57);
+  padding-top: 2em;
 }
 .content-container h1 {
   color: rgb(237,41,57);
