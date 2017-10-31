@@ -13,7 +13,7 @@ Abordés depuis peu dans une réflexion associant les deux sujets, Migration et 
 
 
 ## Travail et survie
-Nous observons également que pour ces femmes, l’intérêt propre ne prenant plus le pas, elles sont malgré elles poussées à une forme d’acceptation de brutalité ou d’insécurité. Et la condition de migrante ajoute à cela des "étapes de violences" : le rite, la dette, l'embrigadement, les filières de l'exil, etc. à celles déjà importante des conditions *in situ* (sanitaires et sociales pour ne citer qu’elles).
+Nous observons également que pour ces femmes, l’intérêt propre ne prenant plus le pas, elles sont malgré elles poussées à une forme d’acceptation de brutalité ou d’insécurité. Et la condition de migrante ajoute à cela des "étapes de violences" (le rite, la dette, l'embrigadement, les filières de l'exil, etc.) à celles déjà importante des conditions *in situ* (sanitaires et sociales pour ne citer qu’elles).
 L’exploitation des corps se confond alors pour ces femmes dans une triple contrainte : pécuniaire (remboursement), de survie et de travail.
 
 ![bordeaux de nuit](/images/bdx.jpg)

@@ -12,7 +12,7 @@ Les espaces communs entre migration et l'industrie sexuelle sont complexes. Afin
 - **Une Projection // Travel**
 Ethnofiction écrite et interprétée par Nicola Mai et 8 femmes nigérianes ayant des expériences de migration, de travail sexuel et d′exploitation. 	
 
-- **Une Table-ronde // La prostitution et les rapports sociaux au sexe à l'épreuve des phénomènes migratoires contemporains**
+- **Une Table-ronde // La prostitution et les rapports sociaux au sexe à l'épreuve des phénomènes migratoires contemporains**.</br>
 Animé par Samuel Belaud (Université de Lyon) avec :
 
   - `Nicola Mai` : sociologue et réalisateur, professeur de Sociologie et Etudes migratoires à l′Université Métropolitaine de Londres.
