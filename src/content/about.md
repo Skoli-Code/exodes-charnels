@@ -15,20 +15,14 @@ Ethnofiction écrite et interprétée par Nicola Mai et 8 femmes nigérianes aya
 - **Une Table-ronde // La prostitution et les rapports sociaux au sexe à l'épreuve des phénomènes migratoires contemporains**
 Animé par Samuel Belaud (Université de Lyon) avec :
 
-  - Nicola Mai : sociologue et réalisateur, professeur de Sociologie et Etudes migratoires à l′Université Métropolitaine de Londres.
-  - Lilian Mathieu : spécialiste de l′étude de la prostitution. Directeur de recherche CNRS (Centre Max Weber - ENS de Lyon). Enseignant à l′Institut d′études politiques de Paris et à l′Université Lumière Lyon 2.  
-  - Laure Sizaire : spécialiste des rapports sociaux de sexe et des nouvelles mobilités. Doctorante au CNRS (Centre Max Weber - ENS de Lyon). Enseignante au Collège Universitaire français de Moscou.   
-
-
-[Vidéo]
-
-
-
+  - `Nicola Mai` : sociologue et réalisateur, professeur de Sociologie et Etudes migratoires à l′Université Métropolitaine de Londres.
+  - `Lilian Mathieu` : spécialiste de l′étude de la prostitution. Directeur de recherche CNRS (Centre Max Weber - ENS de Lyon). Enseignant à l′Institut d′études politiques de Paris et à l′Université Lumière Lyon 2.  
+  - `Laure Sizaire` : spécialiste des rapports sociaux de sexe et des nouvelles mobilités. Doctorante au CNRS (Centre Max Weber - ENS de Lyon). Enseignante au Collège Universitaire français de Moscou.   
 
 
 # Mentions légales
 
-**éditeur :** </br>
+**Éditeur :** </br>
 Université de Lyon </br>
 92, rue Pasteur – CS30122</br>
 69361 Lyon Cedex 07</br>
