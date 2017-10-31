@@ -66,16 +66,16 @@ La double condition de migrante et de prostituée est donc une double "punition"
 - **Stéphan Altasserre**, *Diversité des mobilités prostitutionnelles bulgares en Europe occidentale. La prostitution, activité économique aux multiples visages*, Migrations Société 2012/5 (N° 143), pp.13-32. </br></br>
 - **Malika Amaouche**, *France. Invisibles et indicibles sollicitations : jeunes hommes pratiquant de nos jours la prostitution dans une gare parisienne*, in Véronique Blanchard et al., "Les jeunes et la sexualité", Autrement, "Mutations" 2010, p.189-199. </br></br>
 - **Elena Ambrosetti** et al., *Femmes, rapports de genre et dynamiques migratoires*, Population 2008/4 (Vol. 63), pp.767-793. </br></br>
-- **Rutvica Andrijasevic**, *La traite des femmes d’Europe de l’Est en Italie*, Revue européenne des migrations internationales [En ligne], vol. 21 n°1, URL: http://remi.revues.org/2354 </br></br>
-- **Ting Chen**, *Femme et mère, entre le besoin et le désir*, Hommes et migrations, URL: http://hommesmigrations.revues.org/3644 </br></br>
+- **Rutvica Andrijasevic**, *La traite des femmes d’Europe de l’Est en Italie*, Revue européenne des migrations internationales [En ligne], vol. 21 n°1, [URL](http://remi.revues.org/2354) </br></br>
+- **Ting Chen**, *Femme et mère, entre le besoin et le désir*, Hommes et migrations, [URL](http://hommesmigrations.revues.org/3644) </br></br>
 - **Elsa Dorlin**, *Les putes sont des hommes comme les autres*, Raisons politiques 2003/3 (n°11), pp. 117-132. </br></br>
 - **Philippe Fargues**, *Un million de migrants arrivés sans visa en Europe en 2015 : qui sont-ils ?*, Population et Sociétés, 532, avril 2016. </br></br>
 - **Dominique Giabiconi**. *Filles de l’Est : construction d’une féminité racisée*, Séminaire EFFIGIES du 14 mai 2005, Juin 2005, France, 2005.  </br></br>
 - **Françoise Guillemaut**, *Victimes de traffic ou actrices d'un processus migratoire ? Saisir la voix des femmes migrantes prostituées par la recherche-action (enquête)*, Terrains & travaux 2006/1 (n° 10), pp. 157-176. </br></br>
 - **Françoise Guillemaut**, *Femmes africaines, migration et travail du sexe*, Sociétés 2008/1 (n° 99), pp. 91-106. </br></br>
-- **Françoise Guillemaut**, *Sexe, juju et migrations. Regard anthropologique sur les processus migratoires de femmes africaines en France*, Recherches sociologiques et anthropologiques [En ligne], 39/1 | 2008, mis en ligne le 28 février 2011, URL: http://rsa.revues.org/404 </br></br>
+- **Françoise Guillemaut**, *Sexe, juju et migrations. Regard anthropologique sur les processus migratoires de femmes africaines en France*, Recherches sociologiques et anthropologiques [En ligne], 39/1 | 2008, mis en ligne le 28 février 2011, [URL](http://rsa.revues.org/404) </br></br>
 - **Ronan Hervouet, Claire Schiff** *Des épouses dominées ? Mariages transnationaux, inégalités dans le couple et parcours de vie en France de femmes russes, biélorusses et ukrainiennes*, Recherches familiales 2017/1 (n° 14), pp. 95-106. </br></br>
-- **Florence Lévy**, *Chiffonniers ou prostituées*, Hommes et migrations [En ligne], URL: http://hommesmigrations.revues.org/3276 </br></br>
+- **Florence Lévy**, *Chiffonniers ou prostituées*, Hommes et migrations [En ligne], [URL](http://hommesmigrations.revues.org/3276) </br></br>
 - **Florence Lévy, Marylène Lieber** *La sexualité comme ressource migratoire. Les Chinoises du Nord à Paris*, Revue française de sociologie 2009/4 (Vol. 50), pp. 719-746. </br></br>
 - **Lilian Mathieu**, *Le débat français sur la prostitution*, in Margaret Maruani, "Femmes, genre et sociétés", La Découverte TAP/Hors Série, 2005, pp. 364-371. </br></br>
 - **Lilian Mathieu**, *Sociologie de la prostitution*. La Découverte, "Repères", 2015, 128 pages. </br></br>
@@ -83,5 +83,5 @@ La double condition de migrante et de prostituée est donc une double "punition"
 - **Olivier Peyroux**, *Délinquants et victimes : la traite des enfants d'Europe de l'Est en France*, 2013, Editions Non Lieu. </br></br>
 - **Vanessa Simoni**, *Territoires et enjeux de pouvoir de la traite à des fins d'exploitation sexuelle : le cas de Paris*, Hérodote 2010/1 (n° 136), pp.134-149. </br></br>
 - **Vanessa Simoni**, *I swear an oath - Serments d’allégeances, coercitions et stratégies migratoires chez les femmes nigérianes de Benin City*, in "Prostitution nigériane, entre rêves de migration et réalités de la traite", Hommes et sociétés, Karthala, 2013. </br></br>
-- **Laure Sizaire**, *S’ouvrir au marché matrimonial globalisé : le cas des femmes russophones*, e-Migrinter, URL: http://e-migrinter.revues.org/706 </br></br>
+- **Laure Sizaire**, *S’ouvrir au marché matrimonial globalisé : le cas des femmes russophones*, e-Migrinter, [URL](http://e-migrinter.revues.org/706) </br></br>
 - **Paola Tabet**, *La grande arnaque l’expropriation de la sexualité des femmes*, in Annie Bidet-Mordrel, "Les rapports sociaux de sexe", Presses Universitaires de France "Actuel Marx Confrontations", 2010, pp.104-122. </br></br>
