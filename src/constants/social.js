@@ -11,8 +11,7 @@ const TWEET_VIA_ACCOUNT = '';
 const TWEET_PARAMS = {
   via: TWEET_VIA_ACCOUNT,
   text: TWEET_TEXT,
-  url: 'https://exodes.universite-lyon.fr',
-  // Mettre à jour avec l'url définitive : http://exodes_charnels.universite-lyon.fr
+  url: 'https://exodes-charnels.universite-lyon.fr',
   hashtags: TWEET_HASHTAGS,
 };
 
@@ -40,4 +39,4 @@ export const getTwitterShareHREF = () => {
 export const FACEBOOK_APP_ID = '1666596323384667';
 export const FACEBOOK_SDK_VERSION = 'v2.10';
 
-export const SHARE_URL = 'https://exodes.universite-lyon.fr/'; 
+export const SHARE_URL = 'https://exodes_charnels.universite-lyon.fr/';
