@@ -11,13 +11,13 @@ A travers les `parcours, fictifs`, de trois prostituées originaires de Chine, d
 
 ## La situation actuelle
 ### La chute de la prostitution traditionnelle
-Depuis les années 1970, le recours à la sexualité mercantile a significativement diminué. Le sociologue `Lilian Mathieu` offre plusieurs clés de compréhension de ce phénomène. D’abord la remise en question de la norme du couple hétérosexuel monogame. Ensuite, pour ce qui concerne les [clients](https://exodes.universite-lyon.fr/glossaire), le chercheur observe une double évolution de leur sexualité pouvant expliquer cette chute : plus diversifiée d’un côté, moins satisfaisante de l’autre (voir `Lilian Mathieu`, *Sociologie de la Prostitution*). Enfin dans une certaine mesure, ce phénomène a également pu être accéléré par la crainte qu’a instauré la pandémie de sida au tournant du siècle.
+Depuis les années 1970, le recours à la sexualité mercantile a significativement diminué. Le sociologue `Lilian Mathieu` offre plusieurs clés de compréhension de ce phénomène. D’abord la remise en question de la norme du couple hétérosexuel monogame. Ensuite, pour ce qui concerne les [clients](https://exodes-charnels.universite-lyon.fr/glossaire), le chercheur observe une double évolution de leur sexualité pouvant expliquer cette chute : plus diversifiée d’un côté, moins satisfaisante de l’autre (voir `Lilian Mathieu`, *Sociologie de la Prostitution*). Enfin dans une certaine mesure, ce phénomène a également pu être accéléré par la crainte qu’a instauré la pandémie de sida au tournant du siècle.
 
 ![nuit](/images/nuit.jpg)
 
 Dans le même temps, la filière prostitutionnelle a connu de profonds bouleversements.
 Une prostitution de plus en plus étrangère
-L’office central pour la répression de la traite des êtres humains (`OCRTEH`), seul organisme public procédant à des évaluations quantitatives du phénomène de la [prostitution](https://exodes.universite-lyon.fr/glossaire) estimait en 2010 le nombre de personnes prostituées en France entre 20 000 et 40 000. Une estimation que n’ont pas contesté les associations travaillant auprès des personnes prostituées (le `Strass` -Syndicat du travail sexuel- mis à part, qui estime ce chiffre vingt fois supérieur).
+L’office central pour la répression de la traite des êtres humains (`OCRTEH`), seul organisme public procédant à des évaluations quantitatives du phénomène de la [prostitution](https://exodes-charnels.universite-lyon.fr/glossaire) estimait en 2010 le nombre de personnes prostituées en France entre 20 000 et 40 000. Une estimation que n’ont pas contesté les associations travaillant auprès des personnes prostituées (le `Strass` -Syndicat du travail sexuel- mis à part, qui estime ce chiffre vingt fois supérieur).
 
 Cependant, si le nombre de personnes prostituées évolue peu, la structure de cette population a radicalement changé au début du 21e siècle. Très majoritairement françaises jusqu’à la fin des années 1990, les femmes prostituées dans la rue sont désormais majoritairement de nationalités étrangères.
 
@@ -36,10 +36,10 @@ La fin des années 1990 et le début des années 2000 a vu l’émergence d’un
 
 ### Des étrangères ? La dette du passage comme contrainte :
 
-Pour ces femmes étrangères, prostituées dans les rues française, l’entrée sur le territoire s’est la plupart du temps déroulée illégalement. La complicité de passeurs s’est révélée indispensable et près de 80% de ces femmes ont une [dette](https://exodes.universite-lyon.fr/glossaire) de passage oscillant entre 5 000 € pour les femmes en provenance des Balkans, et 70 000 € pour celles qui viennent d’Afrique. Le remboursement s’effectue par un prélèvement sur ses gains.
+Pour ces femmes étrangères, prostituées dans les rues française, l’entrée sur le territoire s’est la plupart du temps déroulée illégalement. La complicité de passeurs s’est révélée indispensable et près de 80% de ces femmes ont une [dette](https://exodes-charnels.universite-lyon.fr/glossaire) de passage oscillant entre 5 000 € pour les femmes en provenance des Balkans, et 70 000 € pour celles qui viennent d’Afrique. Le remboursement s’effectue par un prélèvement sur ses gains.
 
 ### Attention aux chiffres
-Tous ces chiffres visent à donner une idée, rapide, de l’ampleur du phénomène, de ses principales composantes. Néanmoins, le caractère clandestin, stigmatisé, illégal, précaire et non déclaré de l’activité pose des questions quant à l’origine des chiffres fournis, leur fiabilité, et la réalité qui se cache réellement derrière. Aussi, au cours de cette étude, une distanciation avec l’approche quantitative s’est imposée du fait de l’hétérogénéité des sources et de la difficile appréhension de ce phénomène clandestin par les chiffres. Cette plongée dans l’univers des [migrations](https://exodes.universite-lyon.fr/glossaire) prostitutionnelles est basé sur un corpus d’articles et d’ouvrages scientifiques (voir bibliographie) dont les approches sont majoritairement qualitatives.
+Tous ces chiffres visent à donner une idée, rapide, de l’ampleur du phénomène, de ses principales composantes. Néanmoins, le caractère clandestin, stigmatisé, illégal, précaire et non déclaré de l’activité pose des questions quant à l’origine des chiffres fournis, leur fiabilité, et la réalité qui se cache réellement derrière. Aussi, au cours de cette étude, une distanciation avec l’approche quantitative s’est imposée du fait de l’hétérogénéité des sources et de la difficile appréhension de ce phénomène clandestin par les chiffres. Cette plongée dans l’univers des [migrations](https://exodes-charnels.universite-lyon.fr/glossaire) prostitutionnelles est basé sur un corpus d’articles et d’ouvrages scientifiques (voir bibliographie) dont les approches sont majoritairement qualitatives.
 
 ![night](/images/night.jpg)
 
@@ -49,7 +49,7 @@ La question de la prostitution fait l’objet d’un vif débat quant à son int
 
 ### L’interprétation de l’Etat
 
-Les institutions policières considèrent les femmes prostituées comme victimes de [proxénétisme](https://exodes.universite-lyon.fr/glossaire) et de [traite](https://exodes.universite-lyon.fr/glossaire) des êtres humains. La loi définie la traite comme
+Les institutions policières considèrent les femmes prostituées comme victimes de [proxénétisme](https://exodes-charnels.universite-lyon.fr/glossaire) et de [traite](https://exodes-charnels.universite-lyon.fr/glossaire) des êtres humains. La loi définie la traite comme
 >le fait, en échange d'une rémunération ou de tout autre avantage ou d'une promesse de rémunération ou d'avantage, de recruter une personne, de la transporter, de la transférer, de l'héberger ou de l'accueillir, pour la mettre à sa disposition ou à la disposition d'un tiers [...] afin soit de permettre la commission contre cette personne des infractions de proxénétisme, d'agression ou d'atteintes sexuelles, d'exploitation de la mendicité, de conditions de travail ou d'hébergement contraires à sa dignité, soit de contraindre cette personne à commettre tout crime ou délit.
 
 Le proxénétisme désigne lui le soutien ou la contrainte à la prostitution d’autrui. Soit toute facilitation, hébergement ou protection de la prostitution. Cette action n’est pas nécessairement intéressée. Toute pression sur une personne en vue de l’amener à se prostituer tombe aussi sous le coup de la loi contre le proxénétisme.

@@ -1,6 +1,6 @@
 ## Migrant(e). Comme les autres
-Donner à comprendre la prostitution par le prisme des [migrations](https://exodes.universite-lyon.fr/glossaire), c’est avant tout l’occasion de sortir de l’analyse des gestions publiques "*des moeurs et des corps*" `[1]`. C’est également se détacher des regards contradictoires portés sur les prostituées elles-mêmes : à la fois victimes et participant de troubles à l’ordre public.
-Abordés depuis peu dans une réflexion associant les deux sujets, Migration et [Prostitution](https://exodes.universite-lyon.fr/glossaire) recouvrent pourtant ensemble, une réalité socio-historique importante. En effet la population concernée et les terrains d’enquêtes ont pu paraître peu aisés à approcher (moins désormais) tant la conjonction de situations sociales stigmatisantes pousse ces personnes au ban de la Société `[2]`:
+Donner à comprendre la prostitution par le prisme des [migrations](https://exodes-charnels.universite-lyon.fr/glossaire), c’est avant tout l’occasion de sortir de l’analyse des gestions publiques "*des moeurs et des corps*" `[1]`. C’est également se détacher des regards contradictoires portés sur les prostituées elles-mêmes : à la fois victimes et participant de troubles à l’ordre public.
+Abordés depuis peu dans une réflexion associant les deux sujets, Migration et [Prostitution](https://exodes-charnels.universite-lyon.fr/glossaire) recouvrent pourtant ensemble, une réalité socio-historique importante. En effet la population concernée et les terrains d’enquêtes ont pu paraître peu aisés à approcher (moins désormais) tant la conjonction de situations sociales stigmatisantes pousse ces personnes au ban de la Société `[2]`:
 - l’illégalité de la situation,
 - les origines étrangères des concernées,
 - les valeurs traditionnelles contrecarrées par un rapport différent au corps, aux institutions (mariage, famille, religion), à la sexualité, etc.
@@ -9,7 +9,7 @@ Abordés depuis peu dans une réflexion associant les deux sujets, Migration et 
 - l’évolution des rapports sociaux au sexe,
 - les mutations des flux migratoires et leurs conséquences,
 - la réalité des rapports femmes/hommes dans le monde,
-- et le concret des conditions de la prostitution (depuis les raisons de l’émigration jusqu’à l’arrivée, la mercantilisation du corps, en passant par la [dette](https://exodes.universite-lyon.fr/glossaire), le rite - s’il en est -, le [réseau](https://exodes.universite-lyon.fr/glossaire), etc…).
+- et le concret des conditions de la prostitution (depuis les raisons de l’émigration jusqu’à l’arrivée, la mercantilisation du corps, en passant par la [dette](https://exodes-charnels.universite-lyon.fr/glossaire), le rite - s’il en est -, le [réseau](https://exodes-charnels.universite-lyon.fr/glossaire), etc…).
 
 
 ## Travail et survie
@@ -28,7 +28,7 @@ Les trois parcours décrits, montrent également des rapports ambivalents des so
 
 Pour illustrer, nous pourrions évoquer plusieurs contradictions, parmi lesquelles :
 - L’Etat, mais également les travailleurs sociaux se déchirent sur les options de gestion de la prostitution… abolition, prohibition ou réglementation ? `[4]` (une distinction pourtant à priori dépassée par les enjeux liés à l’immigration)
-- La criminalisation des prostituées devient double et ambivalente … à la fois qualifiées de victimes de la [traite](https://exodes.universite-lyon.fr/glossaire) d’être humain ... elles sont dans le même temps considérées comme participant et complices d’une activité illégale, ainsi que s’adonnant à des activités pouvant atteindre à certaines bonnes moeurs.
+- La criminalisation des prostituées devient double et ambivalente … à la fois qualifiées de victimes de la [traite](https://exodes-charnels.universite-lyon.fr/glossaire) d’être humain ... elles sont dans le même temps considérées comme participant et complices d’une activité illégale, ainsi que s’adonnant à des activités pouvant atteindre à certaines bonnes moeurs.
 
 Également, le rôle joué par des réseaux mafieux dans la prostitution est plus difficile à saisir qu’on ne le croit.Le parcours des prostituées migrantes comprend des étapes complexes et nombreuses et ne se réduit pas qu'à la mainmise de mafias sur une industrie internationale du sexe, comme il est fréquemment convenu.
 >La récurrence de l'invocation du rôle des "mafias" n'a d'égale que la méconnaissance de ce en quoi elles consistent, de leurs modes d'organisation, de leur recrutement et de leur modus operandi. Les récits de prostituées migrantes [Davies, 2009 ; Solana Ruiz et López Riopedre, 2012] suggèrent de ce point de vue que le trafiquant appartenant à un réseau de criminalité internationale n'est pas la cause ultime de leur prostitution, mais un moyen appelé par le jeu de rapports économiques, politiques et sociaux foncièrement genrés. Ce sont ces rapports inégalitaires qui contribuent au premier chef à produire une pauvreté endémique des femmes à laquelle certaines tentent d'échapper en migrant. </br>
